@@ -2,7 +2,7 @@
 
 ### 🔍 Key Insights
 
-1. **Data Collection**: I used the GitHub API to gather profiles of Toronto-based users with over 100 followers. The script pulls data in batches, navigating through pages of results and respecting API rate limits by pausing and retrying when needed. For each user, I collected detailed profile info and up to 500 of their most recent repositories, capturing details like programming language, license, and project stats. Finally, all the data is organized into CSV files for straightforward analysis.
+1. **Data Collection**: I used the GitHub API to gather profiles of Toronto-based users with over 100 followers. The script pulls data in batches, navigating through pages of results and respecting API rate limits by pausing and retrying when needed. For each user, I collected detailed profile info and up to 500 of their most recent repositories, capturing details like programming language, license, and project stats. Finally, all the data was organized into CSV files for straightforward analysis.
 
 2. **Interesting Fact**: Surprisingly, many top-followed Toronto developers focus on niche or emerging languages over popular ones like JavaScript or Python. This trend shows that unique expertise in less common tech can attract substantial follower engagement, possibly because it demonstrates specialized skills that are in demand but underrepresented.
 

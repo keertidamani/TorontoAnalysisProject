@@ -12,20 +12,20 @@
 
 ## 📖 Project Overview
 
-This project uses GitHub's API to analyze Toronto-based users with significant follower counts, focusing on their profiles, repositories, and language choices. The data collection script (`analysis.py`) and the analysis script (`analysisResults.py`) work together to provide structured output in two CSV files, `users.csv` and `repositories.csv`, which serve as a foundation for examining trends and insights on GitHub user influence.
+This project uses GitHub's API to analyze Toronto-based users with significant follower counts, focusing on their profiles, repositories, and language choices. The data collection script (`analyse.py`) and the analysis script (`analysisResults.py`) work together to provide structured output in two CSV files, `users.csv` and `repositories.csv`, which serve as a foundation for examining trends and insights on GitHub user influence.
 
 ### ⚙️ Process and Key Steps
 
-1. **Data Retrieval (`analysis.py`)**: This script fetches user and repository data from the GitHub API, with rate limit handling, retry logic, and data cleaning to standardize fields.
+1. **Data Retrieval (`analyse.py`)**: This script fetches user and repository data from the GitHub API, with rate limit handling, retry logic, and data cleaning to standardize fields.
 2. **Data Cleaning**: Company names were standardized, null values were addressed, and various fields were formatted for consistency.
-3. **Repository Analysis (`analysis.py`)**: For each user, up to 500 recent repositories were analyzed, focusing on language, license type, and usage of features like projects and wikis.
+3. **Repository Analysis (`analyse.py`)**: For each user, up to 500 recent repositories were analyzed, focusing on language, license type, and usage of features like projects and wikis.
 4. **Data Analysis (`analysisResults.py`)**: This script processes the generated CSV files, running calculations for insights like most popular languages, top users by followers, correlation analyses, and more.
 5. **Output and Results**: CSV files `users.csv` and `repositories.csv` contain user and repository details, supporting further data exploration and insights.
 
 ### 🔧 Technical Overview
 
-- **Rate Limit Management**: A built-in check in `analysis.py` ensures the script pauses when near the GitHub API rate limit, enabling seamless data gathering.
-- **Error Handling**: Connection retries and exponential backoff make `analysis.py` robust against network issues.
+- **Rate Limit Management**: A built-in check in `analyse.py` ensures the script pauses when near the GitHub API rate limit, enabling seamless data gathering.
+- **Error Handling**: Connection retries and exponential backoff make `analyse.py` robust against network issues.
 - **Data Structuring**: `users.csv` and `repositories.csv` are designed for compatibility with popular data analysis tools, making data easy to query and interpret.
 
 ---

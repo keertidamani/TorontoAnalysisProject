@@ -3,10 +3,8 @@ import csv
 import time
 from requests.exceptions import ConnectionError, Timeout
 
-# GitHub API Token (replace 'your_github_token' with your actual token)
 TOKEN = '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'
 headers = {"Authorization": f"token {TOKEN}"}
-
 
 # Function to check the current rate limit and pause if needed
 def check_rate_limit():
@@ -62,7 +60,6 @@ def get_toronto_users():
 
     return users
 
-
 # Function to get detailed information for each user with retries
 def get_user_details(user_login, retries=3, backoff=2):
     url = f"https://api.github.com/users/{user_login}"
@@ -108,7 +105,6 @@ def get_user_details(user_login, retries=3, backoff=2):
     print(f"Failed to retrieve data for {user_login} after {retries} attempts.")
     return None
 
-
 # Function to fetch details for all users and return as a list
 def fetch_all_user_details(users):
     detailed_users = []
@@ -118,7 +114,6 @@ def fetch_all_user_details(users):
         if user_detail:  # Only append if the response was successful
             detailed_users.append(user_detail)
     return detailed_users
-
 
 # Function to write user data to users.csv with utf-8 encoding
 def write_users_csv(users_data):
@@ -137,7 +132,6 @@ def write_users_csv(users_data):
             writer.writerow(user)
 
     print("users.csv has been created with detailed user information.")
-
 
 # Function to get repositories for a user, up to 500
 def get_user_repositories(user_login, max_repos=500):
@@ -190,7 +184,6 @@ def get_user_repositories(user_login, max_repos=500):
 
     return repositories
 
-
 # Function to fetch repositories for all users
 def fetch_all_repositories(users):
     all_repositories = []
@@ -199,7 +192,6 @@ def fetch_all_repositories(users):
         user_repos = get_user_repositories(user['login'])
         all_repositories.extend(user_repos)  # Add the user's repositories to the full list
     return all_repositories
-
 
 # Function to write repository data to repositories.csv with utf-8 encoding
 def write_repositories_csv(repositories_data):
@@ -218,7 +210,6 @@ def write_repositories_csv(repositories_data):
             writer.writerow(repo)
 
     print("repositories.csv has been created with detailed repository information.")
-
 
 # Main script execution
 if __name__ == "__main__":

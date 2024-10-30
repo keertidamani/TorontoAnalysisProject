@@ -1,0 +1,858 @@
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
+aneagoie,Andrei Neagoie,,"Toronto, Canada",,True,Senior Software Dev turned Instructor. Founder of zerotomastery.io,145,10280,1,2015-01-30T17:05:43Z
+ZhangMYihua,Yihua Zhang,,Toronto,yihuazhang2@gmail.com,,Toronto Software Developer,143,5801,11,2015-01-18T00:01:02Z
+susanli2016,Susan Li,,Toronto Canada,,,Chief Data Scientist,34,4920,68,2016-11-28T04:22:39Z
+thedaviddias,David Dias,KIJIJICA,"Toronto, Canada",,,"💻 Passionate Front-End Dev & 🎨 UI/UX fan. Contributing to open-source 🚀, mentoring with ❤️, and hacking life, one code (and ☕ coffee) sip at a time.",88,4546,303,2010-04-05T14:40:12Z
+ange-yaghi,Ange Yaghi,,Toronto,me@angeyaghi.com,,C++ Developer,32,4024,11,2016-07-13T21:01:21Z
+nayuki,Nayuki,PROJECT NAYUKI,"Toronto, Ontario, Canada",,,"I implement data structures, algorithms, and file formats, emphasizing on correct logic and readable code. My website has a list of articles describing my work.",31,3546,0,2011-03-16T01:12:19Z
+stemmlerjs,Khalil Stemmler,KHALILSTEMMLER.COM,"Toronto, ON",khalil@khalilstemmler.com,True,"🌀 Software Essentialist. Skills before tools. Teaching the 80-20 of software design, testing, architecture & strategy. Scalable TypeScript - frontend AND back.",128,3545,45,2014-03-08T16:23:35Z
+GrapheneOS,GrapheneOS,,"Toronto, Ontario, Canada",contact@grapheneos.org,,Security and privacy focused mobile OS with Android app compatibility. We focus on developing substantial privacy and security improvements.,184,3526,0,2019-03-23T01:56:38Z
+MylesBorins,Myles Borins,SNOWFLAKE,Toronto,myles.borins@gmail.com,,"Artist, musician, developer, and maker / Resting for a bit",335,2608,179,2010-11-27T07:09:52Z
+vsavkin,Victor Savkin,NX,Toronto,mail@vsavkin.com,,"Nx co-founder, ex-Googler. Work on dev tools for TS/JS. Nx and Nx Cloud creator. Calligraphy and philosophy enthusiast. ",158,2487,3,2008-11-22T11:55:47Z
+kevinjycui,Kevin Junyang Cui,MCGILL UNIVERSITY,"Toronto, Canada",kevinjycui@protonmail.com,,"McGill University, B.Sc. Computer Science. Software Development. Sometimes known as Junferno on the internet",38,2469,49,2018-04-22T14:12:41Z
+hlissner,Henrik Lissner,,"Toronto, ON",contact@henrik.io,True,I've doomed us all.,60,2425,0,2010-12-06T01:35:55Z
+gazijarin,Gazi,PINTEREST,"Toronto, CA",,,I create stuff sometimes.,16,2286,6,2017-09-23T01:35:45Z
+priya-dwivedi,Priyanka Dwivedi,DEEP LEARNING CONSULTANT,"Toronto, Canada",priyanka.kochhar3@gmail.com,True,"Founder of Deep Learning Analytical. Love building deep learning models.
+https://deeplearninganalytics.org/",23,2252,1,2016-08-17T18:19:42Z
+dmitshur,Dmitri Shuralyov,"GOOGLE, GO TEAM",Toronto,dmitri@shuralyov.com,,"I pursue insight, then make things simpler and better. I enjoy writing correct, high-quality Go code. Minimalist.",1,2236,351,2012-07-05T00:12:20Z
+rspivak,Ruslan Spivak,,"Toronto, Canada",ruslan.spivak@gmail.com,,,14,2180,0,2009-02-22T04:13:32Z
+daattali,Dean Attali,ATTALITECH LTD,Toronto,dean@attalitech.com,True,Founder & Lead R-Shiny consultant @ AttaliTech Ltd. Passionate about writing open source tools. Extreme traveller.,69,2144,0,2011-08-01T18:25:29Z
+chenyuntc,Yun Chen,UBER @UBER-ATG @UBER-RESEARCH,"Toronto, Canada",i@knew.be,,import this,51,2138,9,2014-10-19T01:57:23Z
+jmorganca,Jeffrey Morgan,OLLAMA,Toronto,jmorganca@gmail.com,,"Building @ollama 
+
+Previously at @docker @twitter @google",2,1978,1,2010-04-24T05:02:15Z
+petertodd,Peter Todd,,Toronto,pete@petertodd.org,True,Applied Cryptography Consultant (what the cool kids call 'blockchain tech'),135,1936,2,2008-04-13T05:35:12Z
+vladikoff,Vlad Filippov,,Toronto,,,☢️ <script>alert('hello!');</script>,490,1876,168,2009-09-18T20:49:42Z
+michaelklishin,Michael Klishin,RABBITMQ AT @VMWARE BY @BROADCOM,"Toronto, Ontario, Canada",michael@clojurewerkz.org,,"Infrastructure, data services, distributed systems, Erlang, Elixir, Rust",175,1851,35,2008-02-27T16:49:40Z
+raganwald,Reg Braithwaite,PAGERDUTY,"Toronto, Canada",reg@braythwayt.com,,"@PagerDuty, formerly @github, @unspace, devtopia, kl group/sitraka, codestorm, publishing revenue partners. javascript allongé, what i learned from failure, &c.",46,1832,4,2008-07-21T20:09:46Z
+dsherret,David Sherret,DENOLAND,"Toronto, Canada",,,,139,1805,25,2012-04-03T17:13:35Z
+codereport,Conor Hoekstra,NVIDIA,"Toronto, ON",,,"Research Scientist @NVIDIA, formerly @amzn, @moodysanalytics",128,1769,47,2018-02-01T06:40:07Z
+darcyclarke,Darcy Clarke,,Toronto,darcy@darcyclarke.me,True,"I build products & experiences, communities & culture; ❤️ web+oss+ux & holistic problem solving. 
+
+Prev. Staff Engineering Manager, @npm CLI/OSS @GitHub",86,1648,442,2010-10-29T16:13:10Z
+adam-p,Adam Pritchard,"PSIPHON INC., PROVEN SECURITY SOLUTIONS INC.","Toronto, Canada",pritchard.adam@gmail.com,,,62,1551,4,2010-10-03T21:25:48Z
+richlander,Rich Lander,DOTNET,Seattle / Toronto,,,".NET Team member, trail runner, Dad, Husband.
+
+
+He/him",152,1501,9,2012-10-20T20:21:18Z
+rich-iannone,Richard Iannone,POSIT-DEV,"Toronto, Canada",rich@posit.co,,"I enjoy creating useful things for data analysis, transformation, and visualization. It's super fun too! ₍⸍⸌̣ʷ̣̫⸍̣⸌₎
+",51,1475,509,2013-10-04T14:35:42Z
+ricmoo,Richard Moore,GENETIC MISTAKES SOFTWARE INC.,"Toronto, Canada",github@ricmoo.com,,"A random developer from Canada, specializing in cryptography and blockchain technologies. Hack the Planet!",63,1440,39,2011-08-12T08:53:44Z
+TarrySingh,tarry.singh,DEEPKAPHA.AI,Assen [NL] | Toronto [CA] | Middle East [UAE/OM],tarry.singh@deepkapha.com,True,"€ntrepreneur, ℝesearcher, ""_developer_"" (systems guy - data, databases, infrastructure, cloud). Background in Nautical Engineering, astrʘn⊕my,⎩mατh⎭& ρhysicS",167,1409,55,2014-04-07T07:50:07Z
+1Password,1Password,,"Toronto, Canada",support@1password.com,,"1Password remembers all your passwords for you. It keeps your digital life secure and always available, safe behind the one password that only you know.",76,1383,0,2018-04-09T22:51:52Z
+ehoneahobed,Ehoneah Obed,,Toronto,ehoneahobed@hotmail.com,True,"Software Engineer, Pharmacist, Content Creator, & Certified AWS Solutions Architect Associate. 
+Alumni @alx_africa",84,1373,7,2017-04-17T14:26:33Z
+craffel,Colin Raffel,UNIVERSITY OF TORONTO,"Toronto, ON",craffel@gmail.com,,,88,1315,24,2010-09-27T12:54:44Z
+wiseodd,Agustinus Kristiadi,VECTOR INSTITUTE,Toronto,,,Neovim (btw),51,1291,0,2012-09-07T04:47:08Z
+markstory,Mark Story,GETSENTRY,"Toronto, Ontario",mark@mark-story.com,,,84,1291,19,2008-09-11T02:52:38Z
+JasonEtco,Jason Etcovitch,GITHUB,"Toronto, ON",,,🐙🐱,169,1279,24,2015-01-22T21:22:44Z
+jtemporal,Jessica Temporal,AUTH0,Toronto,,,Sr. Dev Advocate 🥑 • 🎙Podcaster @pizzadedados • Creator of @gitfichas • GitHub ⭐️ • PyLady • cross stitch & knitter • 🇧🇷 & 🇨🇦 • she/her,129,1273,178,2014-02-05T14:25:56Z
+alecjacobson,Alec Jacobson,UNIVERSITY OF TORONTO,Toronto,alecjacobson@gmail.com,,"Senior Research Scientist
+Adobe Research
+& Associate Professor of Computer Science at University of Toronto",189,1230,0,2012-08-29T13:30:50Z
+Gaohaoyang,Haoyang,SNAPLII @SNAPPAYINC,"Toronto, Canada",gaohaoyang126@gmail.com,True,love Front-end/Three.js & Rock'n roll,95,1202,175,2014-05-21T09:12:18Z
+shazow,Andrey Petrov,,"Toronto, ON",andrey.petrov@shazow.net,,,218,1151,31,2008-04-10T21:04:39Z
+leighhalliday,Leigh Halliday,,"Toronto, Canada",,,,245,1134,16,2011-02-07T00:58:46Z
+winkerVSbecks,Varun Vachhar,CHROMATIC.COM,Toronto,,,"
+    finder of new ways to confuse myself
+",232,1128,85,2008-12-25T21:12:04Z
+luisguiserrano,Luis Serrano,,"Toronto, Canada",luisgui.serrano@gmail.com,,"AI Popularizer,
+Author of Grokking Machine Learning
+YouTuber: www.youtube.com/c/LuisSerrano",31,1126,6,2016-08-01T15:59:38Z
+sachac,Sacha Chua,,Toronto,sacha@sachachua.com,,"Interests include: Emacs, Org mode, Elisp, NodeJS, Python, sketchnotes, parenting, captioning, and a bunch of other things. Mastodon: https://emacs.ch/@sachac",85,1114,9,2010-05-16T13:56:56Z
+ziishaned,Zeeshan Ahmad,XPERTSEA,"Toronto, Canada",ziishaned@gmail.com,True,Full Stack Developer passionate about building scalable web applications and contributing to open-source projects.,82,1106,94,2015-12-12T13:01:45Z
+abbycabs,Abby Cabunoc Mayes,GITHUB,"Toronto, Ontario",abbycabs@github.com,,"open source @github @sustainers @openjs-foundation
+
+alum:@mozilla @MozillaScience @OICR @wormbase @uwaterloo 
+📸 CC BY-NC-SA Faces of Open Source",130,1069,0,2011-02-14T20:42:58Z
+yogthos,Dmitri Sotnikov,LUMANU,"Toronto, Canada",dmitri.sotnikov@gmail.com,,Author of the Luminus framework and Web Development with Clojure book.,216,1037,28,2009-08-30T19:58:38Z
+JunMa11,Jun,,Toronto,,,,50,1010,78,2016-06-15T08:15:02Z
+caitp,⭐caitp⭐,IGALIA,"Toronto, Canada",,,"I work on the v8 and JavaScriptCore JS engines for a living. I enjoy doing this, this is fun. I do other things, too",204,1002,198,2012-09-06T20:58:48Z
+k88hudson,Kate Hudson,MOZILLA,Toronto,,,,384,999,24,2012-02-20T23:19:38Z
+gvwilson,Greg Wilson,,"Toronto, Ontario",gvwilson@third-bit.com,,"Sometimes I write, sometimes I teach, sometimes I code.",33,981,0,2011-07-13T00:32:29Z
+enderh3art,Jesse Zhou,,Toronto,,,,5,923,7,2020-04-28T05:36:17Z
+ninjamuffin99,Cameron Taylor,FUNKINCREW,Toronto,cameron.taylor.ninja@gmail.com,,I make games. I'm also known by ninjamuffin99 in various internet places,166,906,224,2016-09-16T01:53:03Z
+Rishit-dagli,Rishit Dagli,"UOFT, @QUALCOMM-AI-RESEARCH","Toronto, Canada",rishit.dagli@gmail.com,,"CS UG @UofT |
+AI Research, Qualcomm |
+Research ML, Vision  UofT, Vector |
+RT @kubernetes 1.26-9",105,882,82,2018-05-27T13:32:46Z
+BenEmdon,Ben Emdon,STRIPE,"Toronto, ON, Canada",,True,"Developer productivity @stripe. 
+Previously @github.",33,856,167,2015-02-20T19:34:52Z
+hejazizo,Ali Hejazizo,AFFINITY,"Toronto, Canada",hejazizo@ualberta.ca,,Senior Machine Learning Engineer @affinity,74,832,32,2016-06-25T23:11:11Z
+aritchie,Allan Ritchie,ACR SOFTWARE,"Toronto, Canada",allan.ritchie@gmail.com,True,"Software Architecture - Cloud, Mobile, Desktop & Web || 25 Years of Software Engineering Experience || 6x Microsoft MVP ",59,778,36,2012-02-12T20:35:47Z
+jgrandja,Joe Grandja,BROADCOM,"Toronto, Ontario, Canada",,,,41,767,2,2015-02-06T15:07:30Z
+lazerwalker,Emilia,MICROSOFT,Toronto,github@lazerwalker.com,True,,219,749,86,2011-05-31T17:46:42Z
+xinshuoweng,Xinshuo Weng,NVIDIA,"Toronto, Canada",xinshuo.weng@gmail.com,True,"Research Scientist at NVIDIA Research, Robotics PhD Alumni at CMU, Qualcomm Fellowship Winner",17,743,3,2015-12-06T14:19:24Z
+pkieltyka,Peter Kieltyka,SEQUENCE,"Toronto, Canada",,,"Open sourcerer of digital worlds
+--",81,720,221,2008-07-29T14:52:19Z
+iceburgcrm,Iceburg CRM,,"Toronto, Canada",,,Iceburg CRM,5,713,19957,2022-11-11T21:59:06Z
+iH8sn0w,iH8sn0w,,"Toronto, Canada",ih8sn0w@ih8sn0w.com,,,26,693,8,2010-02-13T03:17:35Z
+ahmadnassri,Ahmad Nassri,,"Toronto, Canada",,,"Syrian-Canadian 🇸🇾🇨🇦 ⇋ Co-Founder @CorDevelopment ⇋ Fractional CTO ⇋ Developer Accelerator.
+
+past: 
+@npm, @telus, @kong, @cbcrc",110,682,221,2010-01-15T20:11:19Z
+zackradisic,Zack Radisic,OVEN-SH,University of Toronto,,,building stuff,68,667,121,2019-10-03T21:16:09Z
+ChainSafe,ChainSafe,,"Toronto, Canada",info@chainsafe.io,,Building infrastructure for the web3.,393,662,0,2017-04-14T04:59:30Z
+OlivierLaflamme,Boschko,RBC,Toronto Canada ,,True,Red Teamer | HackTheBox Omniscient | CISSP BSCP CRTL CRTO OSCP eWTPX eCPPT,55,661,217,2017-01-11T22:02:56Z
+lstein,Lincoln Stein,ONTARIO INSTITUTE FOR CANCER RESEARCH,"Toronto, Ontario",lincoln.stein@gmail.com,,,26,647,1,2009-08-02T21:17:05Z
+jaysoo,Jack Hsu,NX,Toronto,jack.hsu@gmail.com,,Nx core team member.,319,639,42,2009-02-11T04:30:25Z
+benvinegar,Ben Vinegar,SENTRY,"Toronto, Canada",,,General Manager @syntaxfm at @getsentry. Co-author of Third-party JavaScript. ,28,614,36,2008-03-04T17:04:00Z
+davidrosenberg,David S. Rosenberg,,"Toronto, ON",,,"Head of ML Strategy in the Office of the CTO at Bloomberg, and former Adjunct Associate Professor in the Center for Data Science at NYU.  ",20,606,10,2012-03-21T16:36:29Z
+Idnan,Adnan Ahmed,LOCALHOST,"Toronto, Canada",idnan.se@gmail.com,True,"I write code, read code, talk about code, and other stuff that developers do with code.",35,604,37,2013-12-11T14:27:33Z
+rokon12,A N M Bazlur Rahman ,DNASTACK,"Toronto, Canada",,True,Java Champion 🏆 Empowering Developers through Speaking 🗣️ Writing ✍️ Mentoring 🤝 & Community Building 🌍 Published Author 📖 Contributing Editor at InfoQ and,257,590,23,2010-10-06T04:55:44Z
+eviltrout,Robin Ward,,Toronto,robin.ward@gmail.com,,,128,589,0,2008-07-19T17:47:21Z
+vipulasri,Vipul Asri,,"Toronto, Canada",me@vipulasri.com,True,,34,586,27,2014-06-07T07:09:27Z
+jamesagnew,James Agnew,HAPI // SMILE CDR // UNIVERSITY HEALTH NETWORK,"Toronto, Canada",jamesagnew@gmail.com,,,29,586,0,2013-02-03T18:31:30Z
+spencermountain,spencer kelly,,"Toronto, Canada",spencermountain@gmail.com,True,"freelance javascripter, believer in the internet",149,584,19,2010-09-15T02:11:30Z
+vito,Alex Suraci,DAGGER,"Toronto, ON",suraci.alex@gmail.com,,,257,581,20,2008-03-01T18:39:55Z
+HamedBahram,Hamed Bahram,STUDIO-HB,"Toronto, CA",,True,Software developer & content creator from Canada 🇨🇦,87,579,3,2020-04-22T13:56:33Z
+ibraheemdev,Ibraheem Ahmed,ASTRAL-SH,Toronto,ibraheem@ibraheem.ca,True,"Software developer interested in building fast, concurrent, and robust systems.",34,577,3,2017-12-31T18:54:35Z
+olado,Laura Doktorova,,"Toronto, Canada",,,,7,576,4,2011-01-02T17:44:10Z
+steveseguin,Steve Seguin,BE AWESOME CORP,"Toronto, Canada",steve@seguin.email,,The person your mom threatened you'd become like if you didn't get off the computer and go out to socialize. ,175,576,19,2012-10-16T20:30:28Z
+fantix,Fantix King,EDGEDB,"Toronto, ON",fantix.king@gmail.com,,"I code in Python and more. @decentfox: Outsourcing, Consulting, Startup",109,574,63,2012-05-18T07:52:30Z
+gf3,Gianni Chiappetta,FRESHLINEAPP,"Toronto, Canada",gianni@okgreat.ca,,i am very important & handsome,125,574,174,2008-07-25T14:51:44Z
+GunterMueller,Gunter Mueller,,"In the Greater Toronto Area, Ontario, Canada",gunter.mueller@gmail.com,,,505,571,0,2016-09-11T21:02:37Z
+FaisalAbid,Faisal Abid,EIRENE-CREMATIONS,Toronto,faisal.abid@gmail.com,,"@google Developer Expert, Entrepreneur, and Engineer",114,568,31,2010-04-27T03:12:45Z
+mhammond,Mark Hammond,,Toronto,,,,54,567,0,2009-05-13T02:07:10Z
+glouw,Gustav Louw,,"Toronto, Ontario",,True,"Niche C programming. Home to CTL, Paperview, and the RomanII programming language ",26,557,5,2014-03-19T16:07:26Z
+odziem,Adam Odziemkowski,,"Toronto, Canada",,,Embracing the 🦕 Deno and Node 🚀,36,557,6,2011-10-20T17:28:37Z
+cenkalti,Cenk Altı,,Toronto,,True,,148,553,63,2011-03-10T09:49:30Z
+anniebombanie,Annie,USEPASTEL,"Toronto, Ontario",,,"Designer // Developer | 🌏 Traveller | Optimist 🥛
+",33,538,38,2018-08-13T00:43:08Z
+Windscribe,Windscribe,,"Toronto, Canada",hello@windscribe.com,,Browse the web privately as it was meant to be,65,538,0,2017-07-27T12:57:53Z
+jsoref,Josh Soref,GARNERCORP,Toronto,,,"Wondering how I'm finding spelling errors / want to
+prevent new ones? https://check-spelling.dev",2085,536,2,2012-08-08T20:53:50Z
+scrumtuous,Darcy DeClute,SCRUMTUOUS,"Toronto, ON",,,I'm a certified Scrum Master and AWS Cloud Practitioner who has a passion for IT project management.,16,535,90,2021-12-17T18:56:47Z
+nikolovlazar,Lazar Nikolov,GETSENTRY,"Toronto, Canada",hello@nikolovlazar.com,True,Full stack engineer & educator. @getsentry + @creatures-sh.,85,532,46,2013-09-06T02:07:23Z
+mobinni,Mo Binni,ZERO TO MASTERY,"Toronto, Ontario",mo@binni.io,,,71,529,6,2012-09-17T09:17:31Z
+kulkarniankita,Ankita Kulkarni,HTTPS://FRONTENDSNACKS.DEV/,"Toronto, ON",kulkarni.ankita09@gmail.com,True,"I'm a Creator and Educator!
+
+To help you as a developer, I've created a newsletter: https://frontendsnacks.dev/ 
+check it out!",70,527,0,2012-10-14T22:46:52Z
+ploopyco,,PLOOPY,"Toronto, Canada",,,,18,524,1,2019-09-04T22:37:14Z
+DylanVann,Dylan Vann,,Toronto and sometimes NYC.,dylan@dylanvann.com,True,"🤖 I design and develop software.
+",176,505,9,2012-03-14T18:20:39Z
+dnephin,Daniel Nephin,REDDIT,Toronto,dnephin@gmail.com,,,216,504,22,2010-10-16T20:02:34Z
+code-shoily,Code Shoily,,"Toronto, ON",,, python • elixir • dart,123,499,18,2013-10-16T16:40:20Z
+abetlen,Andrei,,"Toronto, Canada",,True,,48,498,25,2014-03-01T18:38:54Z
+tsiliopoulos,Tom Tsiliopoulos,,"Toronto, Canada",tsiliopoulos@hotmail.com,True,,20,496,1,2012-10-27T23:37:05Z
+josh0xA,Josh Schiavone,CARLETON UNIVERSITY,"Toronto, Canada",,True,"Programmer, Security, Student.
+",27,491,21,2017-07-04T02:47:33Z
+barry-far,bardiafa,MIZEGERD-TECH,"Toronto, ON",,,"""Don't let negativity dim your light; use it as fuel to shine even brighter."" 🌟🚀",5,491,10,2023-09-04T06:25:14Z
+npapernot,Nicolas Papernot,UNIVERSITY OF TORONTO,"Toronto, Canada",,,,19,487,8,2014-09-19T17:59:03Z
+kamiyaa,Jeff,PUFFER FINANCE,Toronto,,True,"Lead Rust Blockchain Developer @PufferFinance  |
+In my free time, I enjoy building and contributing to open source projects.",43,461,357,2014-08-03T20:41:56Z
+OmarElgabry,Omar Elgabry,,"Toronto, ON, Canada",omar.elgabry.93@gmail.com,True,Software Engineer. Going to the moon 🌑,27,458,1,2014-10-16T05:26:41Z
+sideeffects,SideFX,,"Toronto, ON, Canada",,,,62,457,0,2012-03-26T14:53:44Z
+AtotheY,Anthony Sistilli,HYRD.DEV,Toronto,,,"Hi 👋
+
+https://links.sistilli.dev/",37,449,26,2015-01-22T00:52:31Z
+r-park,Richard Park,,"Toronto, Canada",,,,6,442,8,2013-12-24T07:49:45Z
+tristanhimmelman,Tristan Himmelman,WEALTHSIMPLE,"Toronto, Canada",,,Senior Engineering Manager @ Wealthsimple,14,437,21,2012-03-21T19:31:27Z
+rgrinberg,Rudi Grinberg,,Toronto,,True,,416,436,308,2009-10-13T03:55:58Z
+jaberg,James Bergstra,KINDRED.AI,Toronto ON,,,,68,435,26,2009-12-23T05:34:58Z
+Wuziyi616,Ziyi Wu,UOFT-ISL,"University of Toronto, Canada",dazitu616@gmail.com,,UofT CS PhD @uoft-isl ,21,435,498,2018-03-05T12:21:52Z
+etimberg,Evert Timberg,NAUTICAL COMMERCE,Toronto,evert.timberg+github@gmail.com,True,"Principal developer @Nautical-Commerce 
+Lead Maintainer of @chartjs ",33,430,32,2014-02-22T17:49:35Z
+ExamProCo,ExamPro,,Toronto,andrew@exampro.co,,AWS Obsessed training and certification courses,47,423,0,2018-09-25T14:20:15Z
+GeorgeSeif,George,,Toronto Ontario,,True,,19,418,1,2015-11-18T15:47:28Z
+wolever,David Wolever,RXFOOD CORP,"Toronto, ON",david@wolever.net,,,116,413,17,2009-03-03T03:28:14Z
+st3fan,Stefan Arentz,,"Toronto, ON, Canada",,True,,368,412,4,2008-10-08T03:23:17Z
+DaleSeo,Dale Seo,,"Toronto, ON, Canada",,True,,168,412,17,2013-09-16T02:23:59Z
+martindurant,Martin Durant,"ANACONDA, INC.",Toronto,,,"Trained as an astrophysicist, I have worked as a data scientist, and now lead a number of open source pydata projects.
+",164,407,0,2013-11-26T16:03:34Z
+swalkinshaw,Scott Walkinshaw,,Toronto,,True,,46,407,2,2010-06-03T15:03:54Z
+jts,Jared Simpson,,"Toronto, Canada",,,,61,399,15,2010-09-06T15:23:08Z
+heybereket,Bereket Semagn,,"Toronto, Canada",semagnbereket@gmail.com,True,"cofounder, cto @usebutler  ",34,396,19,2020-07-16T16:09:21Z
+ImranR98,Imran,,Toronto,,,"⚛️ 💻
+🇹🇿 🇨🇦
+🫠🙄",48,393,5,2017-07-26T08:52:03Z
+san089,Sanchit Kumar,SCOTIABANK,"Toronto, Canada",sanchitkumar013@gmail.com,True,Data Engineer | Graduate Student | Open-source Contributor | Learner,34,393,20,2018-09-17T16:45:05Z
+davellanedam,Daniel Avellaneda,ACUITY INSIGHTS,"Toronto, Canada",,True,Software Development Manager | Full Stack Software Developer,6,391,1301,2013-07-28T18:38:22Z
+WolfgangOfner,Wolfgang Ofner,,"Toronto, Canada",,,"Wolfgang Ofner is a MCT and a freelance cloud architect who specializes in Azure, DevOps, Kubernetes, and .NET solutions. ",102,391,0,2016-07-11T10:29:21Z
+piyush97,Piyush Mehta,BDO CANADA LLP,"Toronto, CA",me@piyushmehta.com,True,Microsoft Certified AI Engineer 💻 ,109,383,6,2016-04-02T11:32:59Z
+fmfn,fernando,,"Toronto, ON",fmfnogueira@gmail.com,True,Formerly: Theoretical Physics; currently: Machine Learning; seldom: Open Source,13,382,0,2014-05-22T03:38:40Z
+shayanb,Shayan Eskandari,,"Toronto, ON",,,"CTFO
+ 
+\\ PhD Candidate \\
+Security geek",173,382,279,2010-06-19T00:19:26Z
+ReikaKalseki,Reika,,"Toronto, Canada",,,"Professional software dev with aerospace engineering background, and modder (of Minecraft, Factorio, Subnautica, SpaceEngineers, Stellaris, and other games).",107,382,0,2013-01-09T23:54:58Z
+antonitz,,ANTONIT,"Toronto, Canada",,,A guy who loves to teach Google Cloud,30,380,4,2016-01-29T13:45:37Z
+itsdevbear,Devon,,"Toronto, ON",,,"ssz this ssz that 
+",74,380,75,2021-11-04T01:00:40Z
+phuc-mai,Phuc Hong Mai (Maria),,"Toronto, ON",,,A professional worker with a degree in marketing and studying software development.,52,380,2,2022-12-16T11:52:51Z
+aarnphm,Aaron Pham,BENTOML,"toronto, ca",contact@aarnphm.xyz,True,reading books. i also do ml system,35,378,118,2017-06-28T08:09:01Z
+maxhumber,Max Humber,,Toronto,,,Human,42,377,37,2012-09-18T03:46:59Z
+mszoek,Zoë Knox,,"Toronto, Canada",zoe@pixin.net,True,"One of the crazy ones changing the world. 🌏
+
+👩🏻‍💻 Mac/BSD/Linux hacker, developer of ravynOS (@ravynsoft), troublemaker. 🇨🇦🏳️‍🌈",8,376,26,2020-01-21T14:48:18Z
+JacintoDesign,Jacinto Wong ,JACINTO DESIGN,"Toronto, Canada",,,,55,376,0,2018-03-10T21:09:31Z
+cnbeining,David Zhuang,NORTONLIFELOCK / @ACICFG,"Toronto, ON",i@cnbeining.com,True,"Be nice, be wise. | AS208995",135,375,184,2012-03-21T13:33:05Z
+djirdehh,Hassan Djirdeh,DOORDASH,"Toronto, ON",hassan.djirdeh@gmail.com,,,38,375,6,2015-05-16T20:32:44Z
+fardad,Fardad Soleimanloo,SENECA COLLEGE OF APPLIED ARTS AND TECHNOLOGY,Toronto / Canada,,,,4,371,0,2010-12-10T17:55:53Z
+n1ckfg,Nick Fox-Gieg,,Toronto,nick@fox-gieg.com,True,"Volumetric animation @worldmaking, @icosa-gallery, @LightningArtist / XR @nytm, @wavelab, @googlecreativelab, @framestore, @eyebeam / Best Animated Short @sxsw",1987,371,30,2011-05-05T23:11:55Z
+cheezy,Jeff Morgan,INDUSTRIAL LOGIC CANADA,"Toronto, ON Canada",cheezy@industriallogic.ca,,,46,365,0,2008-11-14T01:50:19Z
+jobovy,Jo Bovy,UNIVERSITY OF TORONTO,"Toronto, ON",bovy@astro.utoronto.ca,,Professor of Astronomy & Astrophysics at the University of Toronto. Interested in galaxy structure and dynamics and in open and reproducible science.,91,365,56,2011-09-12T16:09:14Z
+chmln,Gregory,,"Toronto, Canada",,,,38,365,0,2015-03-06T15:31:49Z
+michaelshimeles,Michael Shimeles,,Toronto,,True,Full Stack Engineer.,31,364,7,2020-08-12T20:55:00Z
+henrytao-me,Henry Tao,SHOPIFY,"Toronto, Canada",hi@henrytao.me,,"Self-motivated, passionate about new technology, interested in mobile (Android, iOS) and AI, love to deliver high quality products. ",60,362,53,2013-08-21T02:09:25Z
+filippbudko,Filipp Budko,,"Toronto, ON, Canada",,,,14,361,571,2022-12-19T17:30:33Z
+bruno-garcia,Bruno Garcia,GETSENTRY,"Toronto, Canada",,,,70,358,80,2012-04-11T14:30:10Z
+fwang,Frank,SST,San Francisco | Toronto,frank@sst.dev,,Founder @sst.,74,356,6,2009-05-12T04:57:37Z
+tomhodgins,Tommy Hodgins,HTTP://TOMHODGINS.COM,"Toronto, Canada",tomhodgins@gmail.com,True,Frontend Developer & Designer,142,355,294,2011-08-03T03:23:13Z
+alicoding,Ali Al Dallal,SCOTIABANK,Toronto,ali@alicoding.com,True,,209,354,30,2013-05-07T18:18:49Z
+Devang-25,DEVANG SHARMA,FACEBOOK,Toronto,devshu25@gmail.com,True,"Tech Lead @BMO| Senior Developer @facebook | Fellow @nasa | Founder/CEO @TechElite-India | TCO 20,21, 22 World Finalist | Mentor- @apple, Camp K12, GSSOC |",319,354,121,2017-07-10T13:55:35Z
+deniseyu,Denise Yu,,"Toronto, CA",,,Professional dogeScript developer,169,352,84,2014-08-11T18:39:28Z
+lextm,Lex Li,LEXTUDIO,"Toronto, Canada",,,Director @lextudio | Engineering Manager @microsoft | Developer | Author | Podcaster | Open source advocate,117,348,57,2010-10-03T07:39:30Z
+t-mullen,Thomas Mullen,,Toronto ON,,True,"Video streaming, P2P and collaborative editors.",68,346,44,2015-10-01T22:05:22Z
+Tabrizian,Iman Tabrizian,NVIDIA,"Toronto, Canada",iman.tabrizian@gmail.com,True,,34,346,180,2014-12-07T11:47:29Z
+mystor,Nika Layzell,MOZILLA,"Toronto, ON",nika@thelayzells.com,,"I work on web platform APIs, Gecko, Rust, and break things. Often at the same time.",213,345,14,2011-12-13T23:33:03Z
+una-dinosauria,Julieta Martinez,,"Toronto, Canada",jltmtzc@gmail.com,,Not affiliated with the University of Toronto,27,344,73,2013-03-01T03:45:54Z
+davepagurek,Dave Pagurek,BUTTER CREATIVES,"Toronto, Canada",dave@davepagurek.com,True,"Programmer and digital artist. WebGL steward for p5.js. MSc from UBC CS '21, UWaterloo Software Engineering '19.",128,343,133,2013-08-26T19:27:47Z
+indy256,Andrei Navumenka,,"Toronto, Canada",,True,,7,341,0,2010-06-28T11:26:36Z
+xjasonlyu,Jason Lyu,MCMASTER UNIVERSITY,Greater Toronto Area,,,Computing and Software (CAS) MEng student @ McMaster,60,340,217,2017-05-20T11:31:57Z
+ethers-io,ethers-io,,"Toronto, Canada",github@ethers.io,,"Hub to use, share and develop Ethereum Applications.",30,340,0,2016-04-15T23:22:08Z
+bioinformatics-ca,Canadian Bioinformatics Workshops,,"Toronto, ON",support@bioinformatics.ca,,"Hosted by OICR, bioinformatics.ca offers advanced bioinformatics training with hands-on workshops. ",28,338,0,2016-01-27T20:15:30Z
+RetroNick2020,RetroNick's Youtube Channel,,Toronto,nickshardware2020@gmail.com,,Retro Youtuber  -  Sharing my Freepascal and Quickbasic code on youtube and github. Make my  day - sub to my youtube and github.,169,335,4060,2019-10-22T15:56:40Z
+kobiso,ByungSoo Ko,META,Toronto,kobiso62@gmail.com,True,Research Engineer in Deep Learning and Computer Vision,51,333,34,2015-05-13T03:58:01Z
+bowang-lab,WangLab @ U of T,,"190 Elizabeth St, Toronto, ON M5G 2C4 Canada",,,BoWang's Lab at University of Toronto,44,333,0,2019-05-24T17:10:00Z
+pycaret,PyCaret,,Toronto,,,,59,332,0,2019-11-23T18:33:34Z
+laion01,David Leiva,METAXSEED.IO,Toronto ON. Canada,,,"Do not give up, because you live once.",126,331,385,2021-04-26T13:01:40Z
+chesterbr,Carlos Duarte Do Nascimento (Chester),,"Toronto, ON, Canada",cd@pobox.com,,"Hi! My name is Carlos, but people often call me Chester. I enjoy making people happy by creating/fixing software and tinkering with things 😊",57,330,0,2010-04-03T15:45:15Z
+vasanthv,vasanth,AMAZON,"Toronto, Canada",,True,Chaotically organized person. Keeping things simple & stupid. ,25,329,8,2011-05-11T07:16:50Z
+shyndman,Scott Hyndman,,"Toronto, Canada",scotty.hyndman@gmail.com,,,118,328,103,2008-12-23T16:36:17Z
+xiaozhouwang,Little Boat,,"Toronto, ON, Canada",xiaozhou@ualberta.ca,,,24,328,1,2013-11-23T04:10:54Z
+pilwon,Pilwon Huh,,"Toronto, Canada",,True,,58,327,3,2009-03-09T09:56:43Z
+moezbhatti,Moez Bhatti,"SUPERHUMAN, QKSMS","Toronto, Canada",,True,android @superhuman ,3,326,15,2013-05-06T21:49:30Z
+iamnbutler,Nate Butler,ZED-INDUSTRIES,Toronto,,,"Designer that writes code.
+
+Building Zed at @zed-industries.",95,325,24,2012-05-07T22:41:33Z
+danieldjohnson,Daniel D. Johnson,GOOGLE DEEPMIND,"Toronto, Ontario",daniel.dw.johnson@gmail.com,,,22,323,1,2013-07-11T21:01:54Z
+patcon,Patrick Connolly,CIVICTECHTO @CANADA-CA @GCTC-NTGC @HYPHACOOP,"Toronto, ON",patrick.c.connolly@gmail.com,,& this is the wonder that keeps the stars apart. @CivicTechTO orgnzr. @g0v nobody. Polis contrbtr. ex biochmst. ex @edgi-govdata-archiving. #devops #civictech,647,315,241,2010-06-15T00:52:36Z
+alamkanak,Raquib-ul Alam (Kanak),MERLYN MIND INC,"Toronto, Canada",alam.kanak@gmail.com,True,Hybrid of two realms:  android/kotlin and machine learning,34,312,12,2013-01-05T20:20:16Z
+HackerYou,Juno College of Technology (formerly HackerYou),,Toronto,info@junocollege.com,,"Post-graduate coding school that helps you build a fulfilling career as a web developer, fast. Committed to diversity in tech & community.",83,312,0,2012-10-03T14:38:34Z
+tristen,Tristen Brown,MAPBOX,"Toronto, Canada",,,A gentle lentil,64,312,26,2009-03-07T21:44:15Z
+ryanshrott,Ryan Shrott ,,Toronto,,,Mathematician who is interested in machine learning and AI applications. Strong proponent of the open source movement.,37,311,5,2015-07-20T23:07:12Z
+jneen,Jeanine Adkisson,ART CODE PERSON,Toronto,,,,142,308,48,2010-03-18T02:36:51Z
+Tech-With-Tim,Tech With Tim Inc.,,Toronto,techwithtimm@gmail.com,,,7,308,0,2020-09-27T17:21:12Z
+FrozenPandaz,Jason Jean,NRWL.IO,"Toronto, ON, Canada",jasonjean1993@gmail.com,,I work on nrwl/nx,104,306,4,2014-07-08T15:09:36Z
+XanaduAI,Xanadu,,"Toronto, ON",smokingroosters,,Quantum Computing Powered by Light,76,303,0,2017-09-11T14:28:29Z
+codewithchris,CodeWithChris,,"Toronto, ON",,,,23,302,0,2019-01-10T19:29:00Z
+zoltan-nz,Zoltan,"VICTORIA UNIVERSITY OF WELLINGTON, EX-WORKTANGO, EX-WESTPAC, EX-ANZ, EX-VEND/LIGHTSPEED, EX-SAILTHRU, EX-PRO7SAT1, EX-DAILYMAIL, EX-SANOMA","Toronto, Canada",,,https://yoember.com - https://zoltan.nz - Director of Engineering - Computer Science Researcher,255,302,273,2011-08-28T10:44:22Z
+jaseva,Jason Evans,NURENYX,"Toronto, Ontario, Canada",,,"Extended Reality {Augmented Reality, Virtual Reality, Mixed Reality}, Artificial Intelligence, Spatial Computing, Immersive Web3 Technologies.",32,302,302,2013-09-17T18:05:37Z
+BlakeBrown,Blakelock Brown,UNIVERSITY OF WATERLOO,Toronto,,,"Founder of @jpg-store, ex-engineer @Instagram, valedictorian @uWaterloo",33,302,24,2013-12-30T01:40:05Z
+alex-okrushko,Alex Okrushko,,"Toronto, Canada",,,Principal UI Engineer at Cisco,33,301,17,2012-11-19T01:16:13Z
+mahedee,Mahedee Hasan,"VIRTUSA CONSULTING & SERVICES INC, CANADA","Toronto, Ontario, Canada",mahedee.hasan@gmail.com,True,Microsoft MVP | Software Developer | Software Architect | Technical Blogger | Technical Speaker | Technical Trainer,197,301,70,2013-11-26T16:21:08Z
+kelvinxu,Kelvin Xu,UC BERKELEY,"Toronto, Canada",iamkelvinxu@gmail.com,,,38,300,31,2013-10-10T20:17:00Z
+hannorein,Hanno Rein,UNIVERSITY OF TORONTO,Toronto,hanno@hanno-rein.de,,"Astrophysics Professor interested in dynamics, iOS developer",127,300,149,2009-02-10T16:49:40Z
+colinta,Colin T.A. Gray,SHOPIFY,"Toronto, Canada",,,"Principle Developer of Mobile at Shopify. 
+
+Enthusiastic open source coder.  These days hardware hacking is floating my boat (see Mechy).",130,296,7,2008-10-04T17:51:46Z
+alexminnaar,Alex Minnaar,,Toronto,minnaaralex@gmail.com,True,,108,294,0,2013-02-02T04:02:28Z
+syavash,Siavash Mahmoudian,PASSAGE,"Toronto, Canada",syavash@gmail.com,,,11,292,2,2010-10-19T16:10:25Z
+atesgoral,Ateş Göral,SHOPIFY,Toronto,ates@magnetiq.com,,Atari 800XL was my first computer. This MacBook Pro won't be my last.,142,291,90,2009-02-01T04:56:22Z
+andrewn6,Andrew N,INSTAFLEET,toronto/sf,andrew@nijmeh.world,,,244,290,3,2019-12-25T23:54:55Z
+rileyjshaw,Riley Shaw,WATERSHED | MISERY & CO.,"Toronto, Canada",,True,"Toymaker, troublemaker, dev @watershed-climate and @miseryco. Formerly @mozilla and @Khan. Learned @SFPC and @recursecenter. Strong passwords, weakly held.",237,290,93,2012-06-12T02:58:34Z
+sgbaird,Sterling G. Baird,ACCELERATIONCONSORTIUM (UOT) @SPARKS-BAIRD (UOU),"Toronto, ON",sterling.baird@utoronto.ca,,I direct training programs at the @AccelerationConsortium for materials discovery enabled by Bayesian optimization and self-driving labs. Former @sp8rks group,97,288,419,2018-11-29T20:50:48Z
+joykare,Joy Warugu,ANDELA @WEBEDX-SPARK,"Toronto, Canada",warugujoy@gmail.com,,JS,56,287,36,2016-05-18T12:48:38Z
+brenna,Brenna O'Brien,,"Toronto, ON",,,,44,287,5,2012-04-27T01:37:13Z
+fmoliveira,Filipe Oliveira,LEVEL ACCESS,Toronto,,True,Software Engineer,147,285,244,2013-03-27T13:42:44Z
+devinpleuler,Devin Pleuler,MLSEDIGITAL @TORONTOFC,"Toronto, Ontario",,,"@mlsedigital, Sport Performance Lab",11,282,2,2014-03-04T23:50:40Z
+pritamworld,Pritesh Patel,,"Toronto, ON, Canada",,,Mobile & Web Applications Architect,484,278,23,2015-07-11T19:55:51Z
+vnmakarov,Vladimir Makarov,RED HAT,Toronto,,,,4,278,0,2014-11-20T02:08:50Z
+websanova,Rob Nova,WEBSANOVA,Toronto,rob@websanova.com,True,Code monkey from Canada.,28,277,2,2012-04-15T17:40:01Z
+ritheshkumar95,Rithesh Kumar,ADOBE-RESEARCH @MILA-IQIA,Toronto,ritheshkumar.95@gmail.com,True,"Research Scientist @ Adobe Research. Ex Descript Inc., Mila lab",36,276,13,2014-04-12T03:32:37Z
+dalenguyen,Dale Nguyen,FREELANCER,"Toronto, Canada",dale@dalenguyen.me,,Software Engineer from Toronto w/ ❤,111,275,8,2015-09-03T20:44:46Z
+friyiajr,Daniel Friyia,SHOPIFY,"Toronto, Ontario",,,"Software Engineer
+",51,274,43,2019-03-24T15:54:30Z
+makew0rld,makeworld,,"Toronto, Canada",,,,66,274,40,2017-01-13T22:48:58Z
+SteveJunGao,Jun Gao,,"Toronto, Canada",jungao@cs.toronto.edu,,Graduate student at the University of Toronto.,15,273,0,2015-08-30T01:15:52Z
+david-gpu,David Garcia,,"Toronto, Canada",,True,Retired software engineer who used to work on GPU architecture and device drivers. The GPUs I worked on have reached billions of devices and two planets.,3,272,0,2016-07-07T01:07:40Z
+amsul,,,"Toronto, Canada",,,"I design stuff and write a bunch of if-statements. If I'm feeling rebellious, I'll even write for-loops.",54,272,2,2011-03-23T00:36:01Z
+for-ai,C4AI Community,,"Toronto, Canada",info@for.ai,,Cohere For AI is a non-profit research lab that seeks to solve complex machine learning problems and are focused on creating more points of entry to ML research,28,272,0,2017-10-03T01:08:19Z
+Christopher2K,Christopher N. KATOYI,MAPLE,"Toronto, ON",,,"Software Eng @cookin-dev  / Tech Streamer on Twitch.
+
+Previously @ Maple, Fabernovel, RATP, Metafora Biosystems",58,272,56,2016-01-11T15:28:14Z
+VectorInstitute,Vector Institute,,"Toronto, ON, CA",,,,101,272,0,2018-06-27T14:56:53Z
+WilsonWangTHU,Tingwu Wang,NVIDIA,Toronto,wode406@hotmail.com,,Currently a research scientist @ Nvidia who obtained his PhD in computer science @ UofT in 2022.,53,272,128,2014-10-26T13:28:10Z
+mtrudel,Mat Trudel,PAGERDUTY,Toronto,mat@geeky.net,,,97,271,1,2009-04-30T17:54:58Z
+NickQiZhu,Nick Zhu,BINAXITY,"Toronto, Canada",nick@binaxity.com,,Co-Founder and CTO @ Binaxity,15,271,6,2012-04-09T00:53:02Z
+JessicaLim8,Jessica Lim,WEALTHSIMPLE,"Toronto, ON",jessicalim@bell.net,,i code sometimes,34,270,33,2017-10-21T20:12:34Z
+impressivewebs,Louis Lazaris,LOUIS LAZARIS,"Toronto, Canada",,,"Front-end developer, writer, author, speaker, and newsletter aficionado.",70,269,14,2011-01-12T02:36:07Z
+mrisdal,Megan Risdal,KAGGLE,Toronto,mrisdal@gmail.com,,Product Manager,10,265,1,2013-04-08T22:16:49Z
+josh146,Josh Izaac,XANADUAI,"Toronto, ON",josh@iza.ac,,Quantum physicist and software tinkerer,30,264,16,2012-12-04T06:54:37Z
+mstechly,Michał Stęchły,,Oshawa (Greater Toronto Area),michal.stechly@gmail.com,,Quantum Software Engineer at PsiQuantum,41,263,24,2014-04-16T11:52:39Z
+iSimar,Simar,,"Toronto, Canada",mail@simarsingh.com,True,mail@simarsingh.com,54,261,35,2013-10-09T18:08:22Z
+watadarkstar,Adrian Carolli,G2I,"Toronto, Ontario, Canada",,,Currently Building React & React Native  Apps | Remote @g2i 💻 🇨🇦 | OSS ❤,116,260,406,2012-12-17T02:30:39Z
+LuaxY,Luax,,"Toronto, Canada",yann.guineau@voidmx.net,True,⚡️ Builder,111,260,438,2013-10-30T23:42:37Z
+danialfarid,Danial Farid,,Toronto,danial.farid@gmail.com,True,,28,259,0,2012-04-24T20:20:08Z
+msantos,Michael Santos,,"Toronto, Canada",michael.santos@gmail.com,,,137,256,43,2009-11-25T13:08:13Z
+brianpeiris,Brian Peiris,,"Toronto, Canada",,,Principal Software Developer,201,256,40,2009-04-30T03:34:53Z
+jteneycke,Josh Teneycke,,"Toronto, Ontario, Canada",josh.teneycke@gmail.com,,,84,255,1117,2012-06-15T14:27:34Z
+kinngh,Harshdeep Singh Hura,,"Toronto, Canada",,,Sikh. I build things on Shopify and Shopify Plus.,16,255,0,2011-05-07T08:15:52Z
+taras,Taras Mankovski,THEFRONTSIDE,Toronto,taras@frontside.com,,"Backstage expert, IDP DX consultant, and CXO at @thefrontside.",267,254,104,2009-04-17T04:41:14Z
+cpt-waffle,Waffle,,"Toronto, Ontario",,,Full Stack Developer,72,253,30,2016-09-08T21:25:33Z
+thomas-lowry,Tom Lowry,,"Toronto, ON",,,Advocacy @ Figma,20,252,12,2018-04-18T01:23:44Z
+plentz,Diego Plentz,SHOPIFY,"Toronto, ON, Canada",diego@plentz.io,True,,6,252,157,2008-04-04T01:52:18Z
+ddavison,Dj,GITLABHQ,"Toronto, ON, USA",,,"open source enthusiast, gitlabber,  selenium committer",99,250,86,2012-12-05T16:33:18Z
+Rayhane-mamah,Rayhane Mama,,"Toronto, ON, Canada",,True,"- If it seems impossible, then it's worth doing.",5,249,7,2017-12-19T17:59:34Z
+stevemar,Steve Martinelli,EQUINIXMETAL,Toronto,,,,95,249,6,2013-04-10T19:17:34Z
+leebenson,Lee Benson,DATADOG,"Toronto, ON, Canada",lee@leebenson.com,True,Senior Engineer @ Datadog. TS/Rust.,18,248,0,2011-04-09T20:48:57Z
+rgeirhos,Robert Geirhos,GOOGLE,Toronto,,,"Research Scientist, Google DeepMind",11,248,67,2016-10-26T14:19:57Z
+MagicStack,magicstack,,"Toronto, Canada",hello@magic.io,,Any sufficiently advanced software is indistinguishable from magic.,14,248,0,2015-09-17T05:01:26Z
+iKevinY,Kevin Yap,MLSEDIGITAL,"Toronto, Canada",,,"Software engineer from Vancouver, BC. Previously: @freshlineapp, Gmail and Confidential Computing at @google, @riotgames, @axiomzen.",21,247,132,2012-09-27T06:14:06Z
+arjungautam1,Arjun Gautam,CODE WITH ARJUN,"Toronto, Canada",,True,Software Developer | Youtuber,143,247,0,2018-02-28T13:29:15Z
+filmaj,Fil Maj,SLACKHQ,Toronto,maj.fil@gmail.com,True,"web, automation, testing",235,247,121,2009-02-07T21:01:00Z
+MrGemy95,Mahmoud G. Salem,"UNIVERSITY OF GUELPH, VECTOR INSTITUTE, SAMSUNG","Toronto, Canada",mahmoud.gemy18@gmail.com,True,"MSc. in AI at university of Guelph and Vector Institute. 
+
+",15,247,22,2014-11-12T21:55:05Z
+thephoeron,"""the Phoeron"" Colin J.E. Lupton",,"Toronto, Canada",thephoeron@protonmail.com,,"Mad-scientist supervillain with a hero complex and recovering serial entrepreneur.
+
+Quantum Computing, Lisp Hacker, multi-medium artist, musician, and author.",62,247,130,2011-10-01T02:56:20Z
+ElliotKillick,Elliot Killick,APPLICATION SECURITY CONSULTANT @ RBC,"Toronto, Canada",contact@elliotkillick.com,,Security engineer and researcher. Avid developer. Infosec aficionado,15,247,0,2019-11-26T05:16:01Z
+akshitac8,Akshita Gupta,,Toronto,akshita.sem.iitr@gmail.com,True,"MASc student@ UOG and Student Researcher@Vector Institute
+",80,244,457,2016-08-31T04:32:51Z
+interactiveimmersivehq,The Interactive & Immersive HQ,,"Toronto, Canada",support@interactiveimmersive.io,True,"Training and Community for Immersive Design, TouchDesigner, & Creative Technology Professionals",21,244,3,2014-03-03T18:17:14Z
+elbruno,El Bruno,MICROSOFT,"Toronto, Canada",,True,"AI and NET Advocate @Microsoft, former Microsoft AI MVP (14 years!), lazy runner, lazy podcaster, avg coder",113,243,18,2013-02-11T15:37:27Z
+theoomoregbee,Theophilus Omoregbee,SESAMECARE,"Toronto,  Canadda",theo4u@ymail.com,True,,91,243,132,2015-01-07T20:17:29Z
+Hermanya,Herman Starikov,COURSERA,"Toronto, Canada",herman@starikov.dev,True,I make React libs & apps. Sponsor me for as low as $1/month ☝️,133,240,392,2012-11-27T22:52:07Z
+janetacarr,Janet A. Carr,,"Toronto, ON",,,Independent Clojure Consultant,51,240,10,2012-12-05T07:27:30Z
+amacgregor,Allan MacGregor,SNARKYENGINEER,"Toronto, Canada",dev@allanmacgregor.com,True,Expert Software Engineer and Manager • Writer • Functional Programming Advocate,62,239,97,2010-02-27T20:07:48Z
+kelvinlauKL,Kelvin Lau,INSTACART @RAYWENDERLICH,Toronto,,,Senior Mobile Engineer,52,238,1,2015-03-09T05:59:12Z
+chitwansaharia,Chitwan Saharia,,"Toronto, ON",,,,48,238,2,2016-01-12T16:54:13Z
+oalders,Olaf Alders,WUNDERSOLUTIONS.COM,"Toronto, ON, CA",olaf@wundersolutions.com,True,"🚀 Available for freelance work. 🚀
+
+Simply monitor TLS certs, domain name expirations and uptime at https://prettygoodping.com",161,238,182,2009-06-17T04:57:51Z
+Furkanzmc,Furkan Üzümcü,EDMOWARE @ZERRONLABS @AUTODESK,"Toronto, Canada",zmc@duck.com,,,82,237,145,2011-07-22T15:31:02Z
+geographyclub,SK,FREELANCE,Toronto,emailstevekim@gmail.com,,A humanities grad using software,9,235,9,2020-09-09T19:45:52Z
+therajanmaurya,Rajan Maurya,OPENLANE CANADA INC,Toronto,,True,"I am Learner and always try to teach others to gain knowledge. 
+",152,235,59,2013-10-19T09:59:10Z
+EverythingSuckz,wrench,WALTON-SYSTEMS,"Toronto, CA",,True,"19 | Student Dev
+
+",38,235,9,2020-05-10T13:46:22Z
+QuLogic,Elliott Sales de Andrade,,"Toronto, Ontario, Canada",quantum.analyst@gmail.com,,,314,233,2,2010-06-11T05:13:21Z
+gizak,Zack Guo,ROGERS COMMUNICATIONS,"Toronto, Canada",zack.y.guo@gmail.com,,May the --force be with you.,37,233,4,2012-08-06T01:39:12Z
+cameronmcnz,Cameron McKenzie,,"Toronto, Ontario, Canada",,,"Working hard to provide simple examples to help people learn Java, Angular, Maven, Gradle, Groovy, Jenkins and all sorts of other DevOps and development tech.",76,232,8,2018-05-04T16:24:23Z
+oliveiralecca,Letícia Oliveira,,"Toronto, ON, Canada",,,dev { front-end } 👩🏻‍💻,43,231,330,2020-05-11T19:20:41Z
+epitron,,,Toronto,,,,103,231,585,2008-07-08T16:07:35Z
+tomkralidis,Tom Kralidis,GEOPYTHON @OPENGEOSPATIAL @WMO-IM,"Toronto, Ontario, Canada",tomkralidis@gmail.com,,🇨🇦 🌎 🇬🇷,154,230,0,2011-07-12T14:45:00Z
+mikkoh,Mikko Haapoja,SHOPIFY,Toronto,,,SR Staff Developer @Shopify,80,229,187,2010-11-25T19:11:58Z
+sebjai,Sebastian Jaimungal,UNIVERSITY OF TORONTO,Toronto,,,"I am a Professor of Mathematical Finance at U. Toronto & my research interests span Reinforcement Learning, Stochastic Games, and Algorithmic Trading",15,229,0,2017-11-11T20:16:05Z
+NoahDragon,Abner Chou,DREAM-NAVIGATOR,"Toronto, Canada",,,A develop in limbo.,52,229,65,2013-10-16T21:05:11Z
+adryd325,adryd,,"Toronto, Canyada",,,meow,79,228,68,2019-02-26T15:55:10Z
+MJAlexander,Monica Alexander,,"Toronto, Canada",monica.alexander@utoronto.ca,,Assistant Professor in statistics and sociology at the University of Toronto. Demographer.,36,227,0,2014-03-24T20:51:19Z
+moezali1,Moez Ali,PYCARET,Toronto,,,Creator of PyCaret,21,226,1,2019-08-30T05:17:51Z
+wohali,Joan Touzet,,"Toronto, ON, Canada",,,,37,225,4,2009-08-05T19:56:39Z
+mjangda,Mohammad Jangda,AUTOMATTIC  @WPCOMVIP,"Toronto, ON",batmoo@gmail.com,,I make cool things.,42,225,3,2009-05-19T01:03:31Z
+DjDeveloperr,Dj,,"Greater Toronto Area, ON, Canada",,True,"Software Developer, building with JS/TS, Rust, Objective-C, and Swift",149,225,29,2018-09-06T10:23:49Z
+ReallySnow,SnowAlice,,"Toronto, CA",kawaii.loli@reallysnow.moe,True,世上还是坏人多,11,221,49,2017-08-19T20:13:38Z
+JohnSully,John Sully,,"Toronto, Canada",,,"@jdsully on twitter... 
+Microsoft Alumni, unashamed C++ programmer.  Maintainer of KeyDB the key value store database.  ",29,221,4,2013-03-18T03:04:24Z
+ericevenchick,Eric Evenchick,LINKLAYER LABS,"Toronto, Ontario",,,,71,221,6,2010-02-03T02:44:19Z
+jess-data,Jessica Ayodele,SOBEYS,"Toronto, ON",jessica.uwoghiren@gmail.com,,Data Analyst who loves ML and NLP • 💼 E-Commerce Analytics @ Sobeys Canada,6,221,1,2020-09-18T23:05:58Z
+ylogx,Shubham Chaudhary,SCRIBD,Toronto,shubham@chaudhary.xyz,True,"Staff Machine Learning Engineer @scribd
+
+GPG: 71B6881FFAB52DCA 
+
+keybase.io/chaudhary",90,220,127,2013-02-08T07:03:49Z
+corbanbrook,Corban Brook,HORIZON BLOCKCHAIN GAMES,"Toronto, Canada",corbanbrook@gmail.com,,,62,220,38,2009-03-11T14:18:33Z
+jeffrey-xiao,Jeffrey Xiao,,Toronto,jeffrey.xiao1998@gmail.com,,,82,220,12,2014-09-21T19:51:06Z
+marcospereira,Marcos Pereira,CIRCLECI,"Toronto, ON",marcos.silva@gmail.com,True,Engineering Manager/Software Engineer/Tech lead.,69,220,73,2008-04-03T18:31:22Z
+danqzq,Danial Jumagaliyev,TEAM MELON,"Toronto, Canada",,,"Game Developer, Full-Stack Developer & Director of @Team-Melon 🍉 ",21,219,217,2020-07-29T09:39:07Z
+julianlam,Julian Lam,NODEBB INC.,"Toronto, Ontario, Canada",julian@nodebb.org,,,155,219,7,2011-07-18T14:20:29Z
+AutodeskAILab,Autodesk AI Lab,,SF/Toronto/London,,,,18,218,0,2020-06-30T16:55:24Z
+DateBro,Zhiyong(Johnny) Zhao,MCMASTER UNIVERSITY,Toronto,sdudatebro@gmail.com,True,Incoming SWE @google ,34,217,118,2017-10-11T14:50:26Z
+aleemrehmtulla,Aleem Rehmtulla,,toronto,,,,26,217,12,2020-01-29T18:06:01Z
+dashed,Alberto Leal,GETSENTRY (SENTRY.IO),"Toronto, Canada",mailforalberto@gmail.com,True,🇨🇦 he/him/his,176,217,582,2009-10-14T02:43:38Z
+keeferrourke,Keefer,CASHAPP,"Toronto, ON",mail@krourke.org,,,37,215,44,2014-03-08T00:33:55Z
+Rchristiani,Ryan Christiani,,Toronto,,,,151,214,31,2012-05-24T18:05:08Z
+moollaza,Zaahir Moolla,DUCKDUCKGO,"Toronto, Canada",moollaza@duckduckgo.com,,"Helping @duckduckgo make the Internet more private.
+Previously managed DuckDuckHack Community contributions.
+Creator of RepoRemover.xyz",10,214,13,2011-06-24T16:49:04Z
+randyaajr,Randy Arthur Anderson,,"Toronto, Canada",,,It’s not a bug – it’s an undocumented feature...,59,214,150,2020-07-05T22:50:03Z
+ItsJonQ,Q,WEBFLOW,"Toronto, Canada",hi@itsjonq.com,,"I'm Q!
+
+Designer. Maker. Systems thinker.",256,213,101,2012-09-11T04:26:29Z
+jacobparis,Jacob Paris,FINTECH,Toronto,jacob@jacobparis.com,,,148,212,18,2013-10-08T00:37:45Z
+toksdotdev,toks,CLOUDFLARE,"toronto, canada",,,more | less,30,212,47,2015-04-11T18:40:48Z
+walkah,James Walker,,"Toronto, ON Canada",walkah@walkah.net,True,🛠️ Tinkerer,54,212,131,2008-06-28T04:12:17Z
+erwanor,Erwan Or,PENUMBRA LABS,"toronto, canada",,True,"computer programmer
+",212,212,480,2014-06-12T14:40:37Z
+AndreiBarsan,Andrei Bârsan,"UNIVERSITY OF TORONTO, WAABI",Toronto,,,"PhD student @ University of Toronto
+Senior Scientist @ waabi.ai",50,212,121,2011-12-13T17:25:26Z
+mfridman,Michael Fridman,BUFBUILD,"Toronto, Canada",mf192@icloud.com,,,63,211,0,2013-12-28T21:57:56Z
+chocoluffy,Shunzhe Yu,CORNELL,Toronto,sy679@cornell.edu,True,"3D内容创作平台Reborn创始人。前快手推荐算法工程师，康奈尔大学计算机系2019届。欢迎交流，微信：yushunzhe1104
+",145,211,309,2015-07-04T03:53:42Z
+ruebot,Nick Ruest,YORKULIBRARIES,"Toronto, ON",ruestn@yorku.ca,,Co-PI of @archivesunleashed and @web-archive-group,79,211,270,2010-03-08T19:39:53Z
+teamchong,Steven,,Toronto,,,Recently relocated to Toronto | Eager to Connect and Grow Within the Canadian Tech Industry,310,211,646,2017-02-20T06:47:05Z
+hectris,hectris,REMOTE,"Toronto, ON M4Y 1Z3",jaylee.watcher@gmail.com,True,"AI/ML Engineer || Ex FullStack Developer
+",32,210,230,2019-11-06T15:01:53Z
+truskovskiyk,Kyryl Truskovskyi,KYRYL-OPENS-ML,"Toronto, Canada",truskovskiyk@gmail.com,,Machine Learning Engineer 🇺🇦🇨🇦,33,209,748,2014-06-15T11:38:53Z
+yawaramin,Yawar Amin,,"Toronto, Canada",yawar.amin@gmail.com,True,🐫,120,208,82,2008-04-12T21:02:27Z
+fahdi,Fahad Murtaza,GRAVIXAR,Abu Dhabi - Islamabad - New York -  Toronto,info@fahdmurtaza.com,True,"Software Engineer 
+- Founder Gravixar 
+- Engineering @thechinaproject 
+- WordPress Expert @CodeableHQ 
+- Software Engineer @toptal",271,208,232,2010-10-10T07:54:00Z
+teesloane,Ty,TESTDOUBLE,Toronto,,True,"It's nice to be important but it's more important to be nice.
+",25,208,110,2015-06-21T13:20:38Z
+Continuities,Michael Townsend,DOUBLESPEAK GAMES,"Toronto, Canada",michael@doublespeakgames.com,,"
+    Founder and lead developer for doublespeak games. I like weird stuff.
+",71,206,7,2013-06-29T16:48:47Z
+atgreen,Anthony Green,,"Toronto, Ontario, Canada",green@moxielogic.com,,"Distinguished Solution Architect at Red Hat.  Created libffi, the moxie CPU, the ocicl Common Lisp system distribution system and more.  Hacks are my own.",245,206,31,2009-05-29T19:10:21Z
+kcnickerson,Ken Nickerson,IBINARY LLC,"Toronto, ON",kenn@ibinary.com,,"Maker, Coder, Hacker, MaveriX, XanaduAI, HorizonIO, CDL, i6, xdTaz, xOmers, xFlixel, xRthm, xKobo, xOpenCola, xMicrosoft, xRogers, xBanks, xXs",2,206,2302,2009-05-21T00:25:11Z
+adriengivry,Adrien Givry,SKYBOX LABS,Toronto,contact@adrien-givry.com,,Software Engineer on Minecraft,50,206,44,2017-11-02T15:17:58Z
+jules2689,Julian Nadeau,STRIPE,"Toronto, On, Canada",,,Staff Developer @stripe,108,205,18,2012-12-18T19:21:52Z
+Sticktron,Sticktron,,"Toronto, Canada",sticktron@hotmail.com,True,"iOS research and development.
+Jailbreaker.",30,205,18,2010-10-17T08:19:56Z
+pct960,Tej Kashi,PGEDGE INC.,"Toronto, Ontario",pct960@gmail.com,,"Databases and Distributed Systems.
+Software Engineer @pgEdge.",42,205,651,2016-12-04T14:29:44Z
+ehsan,Ehsan Akhgari,PLAYGROUND AI,"Toronto, Ontario",ehsan.akhgari@gmail.com,,"Pixel sorcerer @PlaygroundAI, ex-browser maker @MightyApp and @Mozilla",139,204,0,2009-12-16T17:33:52Z
+peterzhu2118,Peter Zhu,SHOPIFY,"Toronto, Canada",peter@peterzhu.ca,True,Senior Developer at @Shopify. @ruby core committer.,56,203,16,2015-11-15T19:37:31Z
+prrao87,Prashanth Rao,KUZUDB,"Toronto, Canada",,,AI Engineer @kuzudb 🇨🇦. Building workflows using relational/graph/vector databases and LLMs.,67,203,44,2018-01-01T16:39:35Z
+TouchDesigner,,,"Toronto, Canada",support@derivative.ca,,By Derivative,14,203,0,2012-02-21T17:36:51Z
+friendly,Michael Friendly,YORK UNIVERSITY,Toronto,friendly@yorku.ca,,,55,203,9,2010-10-27T13:16:05Z
+arsduo,Alex Koppel,SLACK,Toronto,,,,77,203,16,2009-01-21T19:45:07Z
+joshl26,Joshua Lehman,,"Toronto, ON, Canada",joshlehman.dev@gmail.com,True,Code repository for Joshua Lehman (Software Engineer/Web Developer),82,202,376,2022-02-21T03:40:07Z
+knazeri,Kamyar Nazeri,HARRIS COMPUTER,"Toronto, ON, Canada",kamyar.nzr@gmail.com,True,Crafting codes to perfection.,16,201,32,2012-05-15T17:33:14Z
+seyonechithrananda,Seyone Chithrananda,DOUDNALAB | @DEEPCHEM,Berkeley | Cambridge | Toronto,,True,"cs @ucberkeley; compbio Doudna lab, @deepchem ",44,200,192,2018-12-24T02:42:50Z
+andyw8,Andy Waite,SHOPIFY,"Toronto, Canada",,True,Ruby Developer Experience team at @Shopify ,472,200,42,2008-06-11T20:15:18Z
+markf94,Mark Fingerhuth,PROTEINQURE & @QOSF,Toronto,,,< Pythonista | Theoretical Physicist > || Co-Founder @ProteinQure and @qosf || Unapologetic generalist,29,199,58,2015-10-29T10:34:37Z
+ankonzoid,Anson Wong,LAYER 6 AI,"Toronto, Canada",,True,AI Research Scientist / Machine Learning Engineer / Theoretical Physicist,4,199,13,2017-02-02T04:08:58Z
+ansis,Ansis Brammanis,,Toronto,ansis.brammanis@gmail.com,,,23,198,5,2012-02-09T02:39:03Z
+bk2204,brian m. carlson,,"Toronto, Ontario, Canada",,,,109,197,0,2010-11-25T21:23:42Z
+m4mallu,Renjith Mangalath,,"Toronto, Canada",,,"🕴🏼Always quest for my Kick 🕴🏼Keeping my demon dormant🕴🏼
+",40,196,7,2020-05-12T14:29:40Z
+deluan,Deluan Quintão,THOUGHTWORKS,"Toronto, ON, Canada",deluan@deluan.com,,,86,196,9,2010-07-13T23:57:38Z
+alifa98,Ali Faraji,,Toronto,,True,It works on my machine.,58,196,273,2017-08-17T09:59:33Z
+Danial-Kord,Danial Kordmodanlou,,Toronto,danial.kordmodanlou@gmail.com,,"Graduate computer science student at York University, with a B.Sc. from AUT. Interested in game development, AI, and computer vision.",48,195,135,2017-10-28T06:34:13Z
+joeyism,Joey,,"Toronto, Canada",,True,"Machine Learning Engineer, with a lot of CLI Dev Tools",148,195,31,2014-05-06T17:23:02Z
+hexonaut,Sam MacPherson,PHOENIX LABS,"Toronto, Ontario",,,Co-founder Phoenix Labs. Previous Protocol Engineering  MakerDAO.,97,195,7,2011-01-28T19:40:15Z
+HuguesTHOMAS,Hugues THOMAS,UNIVERSITY OF TORONTO,Toronto,huguesthomas218@gmail.com,,AI/robotics Researcher. Postdoc at University of Toronto. Focus: Deep Learning and 3D Point clouds. Indoor navigation,10,193,0,2016-01-06T19:28:59Z
+spike01,Spike Lindsey,RECURSECENTER,Toronto,,,,96,191,40,2014-04-15T22:03:37Z
+lacarmen,Carmen La,,"Toronto, Canada",hello@carmen.la,,Creator and maintainer of Cryogen,22,190,12,2014-09-11T17:08:51Z
+yaoyaoding,Yaoyao Ding,UNIVERSITY OF TORONTO,"Toronto, ON, Canada",dingyaoyao.cs@gmail.com,,PhD student at UofT. Alumni at SJTU. Making efficient deep learning system.,39,190,88,2016-11-10T13:07:52Z
+pushmatrix,Daniel Beauchamp,SHOPIFY,"Toronto, Ontario",daniel.beauchamp@shopify.com,,,98,190,8,2010-01-27T06:32:12Z
+websemantics,"Adnan M.Sagar, PhD","WEB SEMANTICS, INC.","Toronto, Canada",adnan@websemantics.ca,True,Passionate about improving apps development practices,121,190,55,2012-08-21T15:12:51Z
+NorthernMan54,Northern Man,,"Toronto, Canada",,True,"Just playing around with devices for home automation.
+
+ESP8266, DHT22, X-10/heyu, bme280, TCC, ECO PLUG
+
+",95,189,13,2016-06-08T00:29:51Z
+ljdursi,Jonathan Dursi,NVIDIA,Toronto,jonathan@dursi.ca,,Computing at scale for hard research problems ,70,189,14,2012-05-27T21:09:01Z
+phillmv,Phill MV,,Toronto,,,"perfect and upright, eschews evil.",52,189,16,2008-07-22T03:53:49Z
+SoroushMehraban,Soroush Mehraban,,"Toronto, Ontario",,,,43,188,156,2019-01-20T15:06:57Z
+stevehu,Steve Hu,NETWORK NEW TECHNOLOGIES INC.,Toronto,,,,6,188,40,2012-07-25T19:21:34Z
+ChainSafeSystems,ChainSafe Systems,CHAINSAFE,"Toronto, Canada",,,"building the infrastructure for web3
+",20,187,96,2017-04-09T02:15:32Z
+tbabej,Tomas Babej,PROTEINQURE INC.,"Toronto, Canada",tomas@tbabej.com,True,"Designing protein therapeutics and developing OSS productivity tools.
+CTO @ProteinQure, lead developer @GothenburgBitFactory. Formerly @esa,  @RedHatOfficial.",113,187,8,2012-08-09T14:24:08Z
+ldct,Li Xuanji,,Toronto,xuanji@gmail.com,True,"""A blank sheet of paper equals endless possibilities."" - Michael Scott",181,186,12,2009-09-23T12:42:04Z
+CNBorn,Tyler Xing,SHOPIFY,"Toronto, Canada",,,,25,186,142,2009-05-05T03:38:09Z
+DylanMeeus,Dylan Meeus,AMAZON,"Toronto, Canada ",,,Software Development Manager @ Amazon,128,185,42,2012-08-19T15:46:47Z
+JohnGiorgi,John Giorgi,ABRIDGE,"Toronto, Canada",johnmgiorgi@gmail.com,True,NLP Research Scientist @abridgeai. CS Ph.D. from the University of Toronto/Donnelly Centre/@VectorInstitute. Previous intern @allenai.,96,185,37,2014-09-25T16:25:01Z
+pschroen,Patrick Schroen,ALIEN KITTY,"Toronto, Canada",,,,32,185,157,2014-05-04T14:38:05Z
+TroyKomodo,Troy,PARAVISON (@EVER-AI),Toronto Canada,troybensonsa@gmail.com,True,"rust go brrr
+
+SDK Software Engineer @ever-ai ",26,182,49,2019-04-19T06:39:39Z
+HACKERALERT,Evan Su,,University of Toronto,,,"Live to code, code to live.",24,181,7,2019-03-21T20:22:04Z
+hammadshaikhha,Hammad Shaikh,,Toronto,hammy.shaikh@mail.utoronto.ca,,Researcher in applied economics.,9,181,1,2017-06-27T23:42:54Z
+SandyLudosky,SwiftDev,,"Toronto, Ontario",sandyludosky@gmail.com,,,58,180,20,2014-05-27T23:43:55Z
+dilevin,David I.W. Levin,UNIVERSITY OF TORONTO,"Toronto, Ontario",diwlevin@cs.toronto.edu,,,37,180,3,2012-06-28T18:38:48Z
+gregorycollins,Gregory Collins,,"Toronto, Canada",greg@gregorycollins.net,,,31,179,26,2008-12-01T16:50:51Z
+agile8118,Joseph Heidari,,"Toronto, ON",,True,Full-Stack Software Engineer,37,179,8,2019-07-28T18:35:16Z
+bytenaija,Everistus Olumese,BENCHSCI,"Toronto, ON",everistusolumese@gmail.com,True,A fullstack Software Engineer applying professional problem solving skills to draw the future,131,179,21,2016-09-12T05:57:18Z
+MatinTavakoli,Matin Tavakoli,,Toronto,smatintavakolia@gmail.com,,,24,178,119,2018-02-16T20:36:36Z
+KingsMentor,Nosakhare Belvi,NEXTDOOR,"Toronto , Canada",nosakharebelvi@gmail.com,True,Software Engineer,85,177,14,2013-10-03T18:32:24Z
+danielmoniz,,,"Toronto, ON, Canada",,True,,70,177,4,2011-08-09T21:25:43Z
+micdoodle8,Mitchell Petrie,INDEPENDENT,"Toronto, ON, Canada",mitchpetrie29@gmail.com,True,,19,175,5,2011-10-03T07:18:30Z
+rishirdua,Rishi Dua,ROBINHOOD,"Toronto, Canada",rishirdua@gmail.com,True,"Engineer @robinhood
+
+Traveling 🌍 Kayaking 🚣🏽‍♂️ Driving 🚗 Camping 🏕️
+
+Previously @google @linkedin  💻
+
+https://www.rishidua.com",33,175,93,2013-06-18T04:12:56Z
+hyfen,Andrew Louis,,Toronto,andrew@hyfen.net,,Building a Memex,44,175,95,2008-04-10T21:02:55Z
+topspinj,Jill Cates,,"Toronto, Canada",,,,17,175,12,2014-06-21T15:35:52Z
+bredele,Olivier Wietrich,,Toronto,,True,15+ years experience as a Software Engineer | Innovator & Problem Solver | Out-of-the-Box Thinker | Father,295,174,241,2012-02-16T16:28:39Z
+jameskokoska,James,UNIVERSITY OF TORONTO,Toronto,,,Just codes for fun,41,174,22,2019-05-20T07:17:21Z
+lucas-manuel,Lucas Manuel,MAPLE-LABS,"Toronto, ON, Canada",lucasmanuel.tech@gmail.com,,"Smart Contracts Technical Lead at Phoenix Labs
+
+Ex-@makerdao Smart Contracts Engineer
+Ex-@maple-labs Smart Contract Tech Lead",34,174,4,2018-10-18T18:02:35Z
+tonybaltovski,Tony Baltovski,CLEARPATHROBOTICS,"Toronto, Canada",,,,53,173,17,2012-12-04T19:40:51Z
+es,Emil Stolarsky,,"Toronto, Canada",,True,I press buttons to make the pattern of lights change however I want.,79,173,336,2012-08-11T23:45:29Z
+flawnson,Flawnson Tong,COOL THINGS INC,"Toronto, Canada",flawnsontong1@gmail.com,True,Machine learning developer and full stack developer building the stuff of dreams and the ideas of tomorrow :),23,172,4,2018-04-13T23:44:28Z
+svinkle,Scott Vinkle,SHOPIFY,"Toronto, Ontario",scott.vinkle@shopify.com,,"Accessibility Specialist @Shopify • Speaker, writer, workshop instructor • IAAP CPWA • He/him",25,172,58,2012-01-30T21:03:58Z
+brynnsmith,Brynn Smith,DOCEBO,"Toronto, ON, Canada",,,"Senior Web Developer @ Docebo
+Software Developer | UI/UX Designer ",19,172,183,2022-02-10T05:31:24Z
+nicholasaleks,Nick Aleks,ALEKS SECURITY CYBER INTELLIGENCE,"Toronto, Ontario - Canada",,True,"Hacker, Engineer, Author of Black Hat GraphQL & Black Hat Bash. Sr. Director of Security @ Wealthsimple & Co-Founder @ DEFCON Toronto (DC416)",26,172,37,2014-09-30T13:29:09Z
+rosszurowski,Ross Zurowski,,Toronto,,,Design + development,29,171,4,2010-06-12T19:55:55Z
+countcain,Tao Huang,,"Toronto, Canada",,True,,12,171,241,2012-05-18T03:58:37Z
+upul,Upul Bandara,,Toronto Canada,upulbandara@gmail.com,True,"An engineer by training, I love using data to build better, smarter products that have a positive impact on society. 🇱🇰 🇨🇦",65,170,24,2009-02-24T03:03:12Z
+wealthsimple,Wealthsimple,,Toronto,,,Building the world's most human financial company,111,170,0,2014-03-06T18:23:38Z
+kashav,Kashav Madan,,"Toronto, Canada",kshvmdn@gmail.com,True,Software engineer,36,169,57,2014-07-09T17:08:59Z
+novatorem,Andrew Novac,QUESTRADE,"Toronto, ON",,,"Everything will be fine as soon as I finish this next project, right?",21,169,10,2016-01-18T06:03:41Z
+ShikharJ,Shikhar Jaiswal,UNIVERSITY OF TORONTO,"Toronto, Canada",jaiswalshikhar87@gmail.com,True,"CS PhD at University of Toronto | Prev. at Microsoft Research | Interested in Machine Learning, Software Systems and Theory",41,169,191,2016-06-03T04:13:59Z
+league1991,Yiubun Auyeung,NVIDIA,"Toronto, Canada",ouyangyaobin@gmail.com,,Computer Graphics Programmer,19,168,81,2013-10-16T01:32:09Z
+QuinntyneBrown,Quinntyne Brown,QUINNTYNE,Toronto,quinntynebrown@gmail.com,True,"Microsoft Certified Solutions Developer specializing in C#, ASP.NET Core, TypeScript, Azure, Angular, Web Components, RxJS, SignalR Core & Entity Framework Core",1216,167,547,2012-05-17T13:33:38Z
+amlankar,Amlan Kar,"NVIDIA, UNIVERSITY OF TORONTO",Toronto,,,"Researching visual intelligence @ NVIDIA, University of Toronto",13,167,19,2014-05-19T17:10:43Z
+Xyene,Tudor Brindus,,New York City / Toronto,,,,88,167,0,2012-02-02T22:56:09Z
+yashkant,Yash Kant,UNIVERSITY OF TORONTO,"Toronto, Ontario",ysh.kant@gmail.com,True,"phd @uoft-cs-robotics, @facebookresearch  // prev @snap-research",33,167,30,2016-02-28T16:48:33Z
+suhaibaffan,Suhaib Affan,,Toronto,suhaibaffan91@gmail.com,True,Lead Software Engineer,90,166,711,2016-03-28T11:53:17Z
+lgfa29,Luiz Aoqui,LOOPHOLELABS,"Toronto, ON, Canada",luiz.aoqui@gmail.com,,,126,165,0,2011-05-08T16:10:24Z
+rafd,Rafal Dittwald,BLOOMVENTURES,"Toronto, ON",rafal.dittwald@gmail.com,,,55,165,10,2009-05-28T19:35:40Z
+caffeinum,Aleksey Bykhun,ARTGENEXYZ,"Toronto, Canada",,True,"caffeinum.eth
+🦄 CTO artgene.xyz @artgenexyz 🕰 Buildship.xyz, CPO xSigma.fi, CTO Swaponline.io, TV host at phystech.tv
+😅
+Fun fact: I have 10k reddit karma",148,165,116,2012-06-30T18:11:21Z
+rafaelsteil,Rafael Steil,,"Toronto, Canada",,,,8,163,23,2008-04-09T15:35:50Z
+RohanAlexander,Rohan Alexander,,"Toronto, Canada",,,"I spend too much money on books and too much time trying new R packages.
+Current: UofT. Past: Petit Poll; Grosvenor; GoCampaign/GO1; CIE; RBA.",123,163,1,2013-10-11T07:50:36Z
+utiasASRL,ASRL - Autonomous Space Robotics Lab,,"Toronto, Canada",,,The purpose of our lab's research program is to enable field robotics applications through advances in visual navigation of mobile robots.,69,162,0,2014-10-09T20:20:10Z
+clouddrove,CloudDrove Inc.,,Toronto & Worldwide,hello@clouddrove.com,,"Design, deployment, and management partner for your cloud",195,162,0,2018-11-28T10:32:27Z
+mveytsman,Max Veytsman,,"Toronto, Ontario",maxim@ontoillogical.com,,,172,162,8,2008-11-16T05:15:18Z
+alex-wilmer,Alex Wilmer,,"Toronto, Canada",djazium@gmail.com,,❤️ 💥 ❗ ,200,162,167,2012-11-24T18:41:41Z
+colinbdclark,Colin Clark,LICHEN COMMUNITY SYSTEMS WORKER COOPERATIVE CANADA,"Toronto, Ontario",colinbdclark@gmail.com,,"Computational media artist, creator of web-based audio and video synthesis tools, community-based technology researcher.",147,162,16,2011-01-11T20:09:46Z
+cheapsteak,Chang Wang,,"Toronto, Canada",,,,178,161,23,2011-04-21T14:48:47Z
+MohamedSlah27,Mohamed Salah,DATA ANALYST,Toronto canada ,muhaadams5@gmail.com,True,I am driven by the desire to help organizations make better decisions through the power of data. I am always seeking new challenges and opportunities to expand.,6,161,258,2023-02-11T22:58:40Z
+nhat416,Nhat Tran,"WECLOUDDATA, BEAMDATA, ELEGANT BY DESIGN","Toronto, Canada",nhat.tran416@icloud.com,True,,618,161,2314,2016-05-28T12:44:47Z
+ephread,Frédéric Maquin,,"Toronto, Canada",fred@ephread.com,True,iOS / watchOS developer,25,160,9,2011-04-11T12:44:14Z
+moaazsidat,Moaaz Sidat,ETHGLOBAL,"Toronto, Canada",,True,software engineer & designer • tinkering with web3 / crypto • leading engineering @ethglobal• previously @dialoguemd @coursera @hackthenorth • CS @uWaterloo,154,159,91,2013-11-17T22:42:22Z
+WirelessLife,Anthony Bartolo,MICROSOFT,"Toronto, ON",,,"Microsoft Principal Cloud Advocate Connecting people, places & things for the enablement of everyone.",19,159,6,2016-02-05T19:35:48Z
+davedbase,David Di Biase,,"Toronto, Canada",,,"Full-stack developer and founder of Pilot, a Toronto-based digital agency. Contributor to @solidjs and @infernojs.",23,158,4,2011-11-02T21:13:42Z
+kpumuk,Dmytro Shteflyuk,WORKDAY,"Toronto, Canada",hi@dmytro.sh,,,38,158,15,2008-05-13T13:17:14Z
+MrCheeze,,,Toronto,fishycheeze@yahoo.ca,True,,66,158,0,2014-01-30T04:29:12Z
+Seanforfun,Botao Xiao,AMAZON,"Toronto, ON, CANADA",xiaob6@mcmaster.ca,True,Dream bigger.,23,158,6,2017-09-25T18:22:15Z
+JoshVarty,Josh Varty,,Toronto,,,,78,158,18,2011-12-08T06:15:20Z
+richardwu,Richard Wu,TENSOR_HQ,"Toronto, Canada",,,"co-founder @tensor-hq
+
+Formerly AI @twosigma, quant @ Citadel and SWE @cockroachlabs, @Shopify, @google.",47,157,2,2015-01-16T15:38:38Z
+32teeth,Eugene Andruszczenko,AWS,Toronto,eugene.andruszczenko@gmail.com,True,"Senior FEE / L6 @ AWS
+
+My affinity, on any platform or stack, is the experience. The end user is a real person.",75,157,71,2009-04-20T17:09:07Z
+ahmdrefat,Ahmed R. Hussein,WEALTHSIMPLE,"Toronto, ON",,,🌎,95,157,552,2010-10-07T17:02:20Z
+philchalmers,Phil Chalmers,YORK UNIVERSITY,"Toronto, Canada",rphilip.chalmers@gmail.com,,Assistant Professor,10,156,4,2011-12-20T05:25:40Z
+pnitsch,Peter Nitsch,SHOPIFY,Toronto,peter.nitsch@gmail.com,,,8,156,7,2010-03-01T21:56:13Z
+ahlashkari,Behavior-Centric Cybersecurity Center (BCCC),YORK UNIVERSITY,"Toronto, ON, Canada",ahabibil@yorku.ca,,"At part of our Understanding Cybersecurity Series (UCS) knowledge mobilization Program, we are designing, developing and releasing cybersecurity analyzers.",12,156,9,2016-04-22T11:56:27Z
+benhylau,Benedict Lau,,"Toronto, Canada",b@deprecated.systems,,,65,156,137,2012-09-01T15:59:43Z
+mohamed-tayeh,Mohamed Tayeh,,"Toronto, Canada",,,Software Engineer,22,156,47,2018-01-06T08:08:13Z
+edmundnoble,Edmund Noble,,"Toronto, Canada",,,Fully automated luxury functional programming,143,155,35,2012-01-23T02:21:39Z
+halostatue,Austin Ziegler,,"Toronto, Ontario",,True,,81,154,45,2008-05-24T04:33:08Z
+0xsauby,Saurabh Harit,SPIRENT SECURITYLABS,"Toronto, Canada",,,,7,154,10,2014-05-10T19:02:50Z
+jamesmacaulay,James MacAulay,,Toronto,,,,59,154,0,2008-02-17T20:11:15Z
+JasonLovesDoggo,Jason Cameron,WLMAC @MCPT @X-SERIES-CTF,Toronto,git@jasoncameron.dev,True,"Full-time and professional dog enthusiast/human.
+I love web automation, python, baking, photography, music and nighttime!  
+Open-source contributor/maintainer",55,154,35,2020-06-07T04:57:55Z
+asaikali,Adib Saikali,VMWARE,Toronto,,,"Principal Solutions Engineer at VMWare Tanzu. Technical Leadership, how to make complex technical decisions. Spring, Cloud Foundry, Kubernetes, PostgreSQL. ",112,154,13,2011-07-28T19:36:49Z
+ameliemaia,Amelie Maia,OTHERLIFE,"Toronto, ON",amelierosser1986@gmail.com,,"Amelie Maia is an English Creative Coder based in Toronto, Canada.",8,154,14,2010-10-11T09:13:57Z
+invokethreatguy,InvokeThreatGuy,,Toronto,,,Doing stuff with stuff ,874,154,192,2016-08-17T04:33:39Z
+Xenomega,David Pokora,TRAILOFBITS,"Toronto, Ontario",david.pokora@alum.utoronto.ca,,,7,153,0,2012-06-06T05:32:52Z
+richgilbank,Rich Gilbank,,Toronto,,,Developer/founder/CTO currently building Shopify apps and a renewable energy data platform. Prev dev lead @Shopify @jetcooper ,60,153,13,2011-12-06T18:49:54Z
+Jeremboo,Jérémie Boulay,FREELANCE,Toronto,jeremi.boulay@gmail.com,,"Creative Developer,  ex-student at @Gobelins_paris.
+Prototyping and crafting new ideas is what I love doing with code 🔥",37,153,27,2014-02-14T12:28:31Z
+AeroAndZero,Ayush Thakur,,"Toronto, Ontario",,True,"My ideas usually start with ""How funny would it be if... """,31,151,30,2017-06-21T11:24:21Z
+barisusakli,Barış Soner Uşaklı,NODEBB,"Toronto, ON",baris@nodebb.org,,"Programmer, Gamer, Co-Founder of @NodeBB ",113,151,12,2012-10-17T19:10:38Z
+xrenaa,Xuanchi Ren,UNIVERSITY OF TORONTO | NVIDIA,Toronto,,,"Fight for future
+
+",41,150,60,2017-09-09T14:19:30Z
+marcelluscaio,Caio Marcellus Cabral,,"Toronto, Canada",,,"Front-end developer with a background in history and teaching, experience as an ESL tutor, and 8-year experience in BNDES. Amateur musician",79,150,100,2021-02-18T20:27:39Z
+distributethe6ix,Marino Wijay,,"Toronto, Ontario, Canada",,,"Expert Procrastinator. Notadeveloper. Distributed Systems, Full Stack Networking, Cloud Native, DevOps, Kubernetes
+
+COMMUNITY",34,149,50,2018-12-17T17:42:00Z
+darcymason,Darcy Mason,,Toronto,,,"Medical Physicist,
+Original author and maintainer of pydicom.",12,148,15,2009-03-07T18:40:25Z
+1Computer1,,,"Toronto, CA",,,λ,54,148,23,2016-09-11T03:32:44Z
+marcbensan,Marc,,"Toronto, Ontario",,,MPAC Systems Developer | Software Engineer | Computer Programming & Analysis,19,148,319,2023-07-12T02:04:53Z
+mssroboto,Samanta Martinez,,Toronto,,True,Designer and Front end developer,6,148,3,2014-02-14T19:36:36Z
+frank-liu-toronto,Frank Liu,,"Toronto, Ontario, Canada",frankliu.associates@gmail.com,,I am a full stack developer. I enjoy sharing my knowledge on YouTube. Check out my channel on YouTube. I also spend lots of time reading philosophy books and co,11,148,0,2016-06-30T22:06:25Z
+quantum5,Guanzhong Chen,,"Toronto, Canada",me@quantum5.ca,,"Main developer of @DMOJ, a modern online judge supporting over 50 programming languages.",88,147,9,2010-10-31T18:23:18Z
+bsormagec,Burak Sormageç,"LARAVEL, BLOCKCHAIN, WEB3, SOLIDITY, NODEJS","Toronto,Canada",,True,,207,147,309,2011-08-08T00:22:01Z
+incizzle,Mathew Haji,ZYREIO,"Toronto, Ontario",,,"A 23 year-old full stack developer that likes security, dev ops, and coding.
+                  
+Most my repos are private🤷🏾‍♂️    
+  Discord: iNcizzle#1337",21,147,22,2016-05-30T04:13:16Z
+RaeesBhatti,Raees Iqbal,EDGIO,"Toronto, Canada",,True,"🇨🇦 Building the future of scalable web. Senior Product Manager @edgio.
+Previously @netlify @serverless",53,146,18,2014-12-03T23:11:33Z
+domluna,Dominique Luna,GOOGLE,Toronto,dluna132@gmail.com,True,magnificent stallion,138,146,58,2012-06-29T20:01:21Z
+andre-nguyen,Andre Nguyen,TRIMBLE-OSS,Toronto,,,"M.A.Sc. graduate of Polytechnique Montreal. Beep Boop, I do robots.
+
+Contributions are my own unless otherwise noted.",86,146,575,2013-11-26T01:26:14Z
+npow,Nissan Pow,,"Toronto, ON",,,,170,146,121,2010-02-18T18:33:55Z
+johnmal-dev,John Malapit,,"Toronto, Canada",,,Software Developer @vehikl ,42,145,203,2019-10-01T14:44:23Z
+tessus,Helmut K. C. Tessarek,,"Toronto, Canada",kc+github@evermeet.cx,,"Always trying to break stuff.
+
+8A55 70C1 BD85 D34E ADBC  386C 1723 80A0 11EF 4944",94,145,0,2010-03-16T00:20:24Z
+nathanmarks,Nathan,INSTACART,"Toronto, ON",,,42,91,145,0,2013-05-13T18:23:39Z
+rafaelperez,Rafael Silva,,"Toronto, Canada",rafael@rafael.ai,,Visual Effects/2D Developer,59,144,262,2012-04-27T07:08:31Z
+manjitkumar,Manjit Kumar,RAYATHEAPP,Toronto,pymanreads@gmail.com,True,Software Engineer with a decade-long experience in building and scaling web applications for high-growth startups and enterprise companies. ,44,144,757,2013-07-17T18:26:22Z
+jonathanlilly,Jonathan Lilly,PLANETARY SCIENCE INSTITUTE,"Toronto, Canada",jonathanlilly@gmail.com,,,10,144,0,2014-03-31T18:42:02Z
+Abtinz,Abtin Zandi,URITECT,"Canada, Toronto",abtinzandi@gmail.com,True,"BSc Computer Engineering Student at Amirkabir University of Technology
+",53,143,166,2021-04-17T19:22:58Z
+e-schultz,Evan Schultz,,Toronto,evan@schultz.codes,,full-stack JavaScript fiddler. I build / talk / train about the stuff I like ,139,143,110,2012-12-14T21:49:21Z
+ParsaMehdipour,Parsa,FARESS CO,"Toronto, Canada",mehdipourparsa@gmail.com,True,"Software developer specializing in C#, .NET, and Python. Passionate
+about problem-solving and continuous learning.",47,143,385,2020-11-29T20:50:06Z
+itsflores,Omar Flores,GOOGLE,"Toronto, ON",,True,software @ google,37,142,217,2017-09-10T15:01:21Z
+CaydenPierce,cayden,,Toronto,,,"Transhackerism
+caydenpierce.com",35,142,67,2018-04-13T16:50:54Z
+michaelstepner,Michael Stepner,UNIVERSITY OF TORONTO,"Toronto, Canada",michael.stepner@utoronto.ca,,,21,142,6,2014-01-04T02:46:25Z
+Abiodun-Shittu,Abiodun Shittu,INTRAPAIR,"Toronto, Canada",,,,49,142,11,2020-08-03T08:57:56Z
+mikeboers,Mike Boers,MIKEBOERS.COM,"Toronto, ON, Canada",github@mikeboers.com,,,67,142,30,2009-09-23T17:33:57Z
+Yifeng-He,Yifeng He,,"Toronto, canada",,True,"Dr. Yifeng He is a Sr. Data Scientist with interest in machine learning, deep learning, computer vision, and artificial intelligence.",29,142,0,2016-09-25T01:03:26Z
+AtheMathmo,James Lucas,VECTORINSTITUTE,"Toronto, Canada",,,"Research Scientist at NVIDIA
+",56,142,18,2014-12-11T06:12:28Z
+dmitryrck,Dmitry L Rocha,,"Toronto, Canada",,,Full Stack Web Developer · Automated Test Specialist.,117,141,210,2009-02-10T11:00:48Z
+gabrielgrant,Gabriel Grant,,"Toronto, Canada",g@briel.ca,,,180,141,5,2010-11-23T20:31:26Z
+amanjeev,Amanjeev Sethi,,"Toronto, ON",github@amanjeev.com,True,,81,140,188,2009-12-01T19:03:07Z
+danielsnider,Daniel Snider,,"Toronto, Ontario, Canada",dans@cs.toronto.edu,True,"PhD Student, U of Toronto, 
+Scalable Machine Learning Systems 
+(@UofT-EcoSystem)",122,140,21,2012-05-14T14:15:06Z
+lsvekis,Laurence Svekis,DISCOVERYVIP,Toronto,lassvekis@gmail.com,,"Online Course Creator Instructor and Author
+Repos contains source code for Videos and Book code exercises",30,140,1,2012-03-26T20:23:48Z
+jairojair,JJ,JUSBRASIL,Toronto,jairojair@gmail.com,,I am a software developer who has a strong perception of the business 'behind' the code.,5,139,484,2010-10-24T02:55:15Z
+marcgibbons,Marc Gibbons,,Toronto,,,Python & Django engineer. Cancer fighter & health advocate. Speaker. Founder of portperrypedals.ca 🚲🇨🇦⚜️,62,138,57,2012-05-10T15:06:10Z
+calvinlfer,Calvin Lee Fernandes,KAIZEN-SOLUTIONS,Toronto,cal@kaizen-solutions.io,True,"Be kind to others 😊 
+Continuously improve yourself 📈
+Functional Programming forever 🔄",126,138,381,2015-09-14T17:57:27Z
+daniellewebb-xx,Danielle Webb,,Toronto,,,Interactive news developer @globeandmail,11,138,10,2014-01-30T15:30:12Z
+jbuck,Jon Buckley,MOZILLA,"Toronto, ON",jon@jbuckley.ca,,,261,138,1,2011-01-22T21:03:07Z
+pangloss,Darrick Wiebe,UNTETHER AI,"Toronto, ON, Canada",darrickw@untether.ai,,Co-founder of Untether AI,117,138,50,2008-05-13T02:17:52Z
+arieling,huan ling,"UNIVERSITY OF TORONTO, NVIDIA",toronto,linghuan941029@163.com,True,,54,138,23,2015-12-28T01:43:31Z
+carolinanonato,Carol Nonato,,"Toronto, Canada",csnonato@gmail.com,,Developer,105,138,172,2018-11-07T17:12:57Z
+johnantoni,John Griffiths,,"Toronto, Ontario",john@red91.com,,"Front-End Developer, Mentor & Maker",535,137,343,2008-06-30T15:55:28Z
+wgrathwohl,Will Grathwohl,,"Toronto, ON",wgrathwohl@gmail.com,,i like machine learning and raccoons,24,137,0,2015-11-11T08:09:49Z
+psychobunny,Andrew Rodrigues,NODEBB INC.,Toronto,,,Co-founder of @NodeBB Inc.,116,137,3,2011-03-07T00:27:14Z
+zazencodes,Alexander Galea,,"Toronto, ON",agalea91@gmail.com,True,Python Data Engineer. M.Sc in Physics at the University of Guelph - 2016.,68,137,9,2015-08-13T03:42:27Z
+baudehlo,Matt Sergeant,IDEAL.COM,Toronto,helpme@gmail.com,,CTO at Ideal.com,39,137,2,2011-03-10T16:51:12Z
+vodik,Simon Gomizelj,MOVABLE INK,"Toronto, Ontario",simon@vodik.xyz,,,155,137,92,2010-03-05T20:03:06Z
+rayryeng,Ray Phan,ELECTRONICARTS,"Toronto, Canada",rphan@ea.com,,"PhD, former part-time instructor & licensed engineer with 20+ years of software development experience. My expertise is in Computer Vision & Machine Learning.",25,136,31,2011-05-03T10:17:19Z
+seglo,Sean Glover,HOPPER,"Toronto, Ontario, Canada",sean@seanglover.com,True,,103,136,51,2011-10-24T14:36:29Z
+william-tran,Will Tran,,"Toronto, ON, Canada",,,,59,135,2,2011-09-27T17:07:04Z
+zlovatt,Zack Lovatt,,Toronto,zack+github@lova.tt,,2d Technical Director,14,135,62,2015-12-15T21:58:11Z
+gaojunxuan,Jun Gao,,Chicago → Toronto,,,"Windows & React Native dev | C#, C++, Python, JavaScript, Rust | Computational Biology | Theoretical CS and Algorithm Design | University of Toronto '24",56,135,176,2014-08-21T09:36:17Z
+nicholaschum,Nicholas Chum,GENERALMOTORS,"Toronto, ON",nicholas@prjkt.io,True,Infotainment Systems Framework Engineer at @generalmotors || CTO at Projekt Development LLC @substratum @prjkt-io ,16,135,10,2012-01-09T04:36:11Z
+Yumcoder-dev,Yumcoder,YUMCODER,Toronto,omid.jn@gmail.com,True,Software engineer,61,135,55,2017-06-20T09:31:59Z
+nicholas-tao,Nicholas Tao,,"Toronto, ON",,True,CS @uWaterloo,23,134,50,2017-12-02T15:34:28Z
+joshspeagle,Josh Speagle,UNIVERSITY OF TORONTO,"Toronto, ON",j.speagle@utoronto.ca,,Assistant Professor of Astrostatistics,20,134,36,2015-07-10T20:30:02Z
+crespire,Simmon Li,"SWITCHGROWTH, @TORONTO-RUBY, @AGENCY-OF-LEARNING",Toronto,hello@crespire.dev,,Full Stack Rails Developer | Toronto Ruby Organizer | Rubyist,108,134,233,2018-02-08T16:03:55Z
+LucasBoTang,Bo Tang,UNIVERSITY OF TORONTO,Toronto,lucastang1994@gmail.com,True,"Ph.D. Candidate in Operations Research and Machine Learning
+",44,134,34,2018-02-19T23:23:43Z
+siebenmann,Chris Siebenmann,,"Toronto, Ontario, Canada",,,,31,133,1,2011-06-21T21:25:56Z
+SteakEnthusiast,William Khem Marquez,,"Toronto, Canada",,,Computer Engineering student @ UofT. I enjoy cooking steak and reversing stuff. Playing CTFs @ UofTCTF,5,133,121,2021-07-13T14:51:41Z
+Coldcard,COLDCARD,,"Toronto, Canada",support@coinkite.com,,"The right kind of security, for the appropriate level of paranoia.",16,133,0,2017-12-14T16:03:58Z
+mikeconley,Mike Conley,MOZILLA CORP.,Toronto,,,,132,133,3,2010-02-03T02:56:07Z
+bmarchete,Joao Rubens Marchete,ZENSURANCE,"Toronto, ON - Canada",,True,"I'm a passionate Software Engineering Manager and a Full Stack Developer, specialized in Node.js, Python, React and AWS services.",53,133,6,2013-10-24T04:06:26Z
+jairajs89,Jairaj,,"Toronto, ON",,,,33,133,0,2009-08-21T15:35:18Z
+Shchvova,Vlad Svoka,CORONA LABS,"Toronto, ON, Canada",vlad@coronalabs.com,,Developing Corona game engine and other things.,78,132,1,2009-09-23T13:32:43Z
+rms80,Ryan Schmidt,RMS80,"Toronto, Canada",,True,"Back at @gradientspace. These are my personal projects. Previously at University of Toronto, Autodesk, and Epic Games.",9,132,2,2012-11-20T16:23:06Z
+ArmanJR,Arman,KIJIJICA,"Toronto, Ontario",,True,,43,132,22,2017-03-13T20:01:09Z
+leibovic,Margaret Leibovic,LEAGUE,"Toronto, ON",,,,88,132,5,2009-12-06T02:35:57Z
+kintel,Marius Kintel,GOOGLE,"Toronto, Ontario, Canada",marius@kintel.net,,,62,132,2,2010-01-20T10:22:07Z
+arkalim,Abdur Rahman,DEV @CLIO,Toronto,,,Dev @ Clio | MScAC @ University of Toronto,32,132,22,2018-05-22T22:49:17Z
+ueg1990,Usman Ehtesham Gul,INSTACART,"Toronto, ON, Canada",uehtesham90@gmail.com,True,Pythonista,45,131,318,2013-01-26T23:53:04Z
+MichaelDiBernardo,Michael DiBernardo,,Toronto,mikedebo@gmail.com,,,29,131,6,2012-08-03T20:55:22Z
+bwinton,Blake Winton,,"Toronto, ON, Canada",bwinton@latte.ca,,,98,131,22,2009-11-29T20:13:52Z
+ahmadsalimi,Ahmad Salimi,YORK UNIVERSITY,"Toronto, Ontario",,,CS graduate student @YorkUCVIL,42,131,18,2018-11-01T10:17:46Z
+jamaps,Jeff Allen,UNIVERSITY OF TORONTO,Toronto,,,"Maps, Graphs, Cities",39,130,42,2015-02-18T03:29:28Z
+fightingtheboss,Mina Mikhail,,"Toronto, Canada",,,,42,130,7,2009-10-26T18:20:17Z
+kracwarlock,Shikhar Sharma,MICROSOFT | UNIV. OF TORONTO | IIT KANPUR,"Toronto, Canada",,,,42,129,36,2011-08-21T09:51:33Z
+myles,Myles Braithwaite,"POPARIDE (PERVIOUSLY @LIVEBUNGALOW, @FAIRTAX, & @MIYS)",Toronto,me@mylesbraithwaite.com,,,215,129,15,2008-02-27T22:49:45Z
+sedghi,Alireza ,,"Toronto, CA",ar.sedghi@gmail.com,,,47,129,193,2014-05-05T15:26:55Z
+dvrzan,Danijela Vrzan,,"Toronto, Canada",,True,,9,129,13,2018-08-10T09:56:33Z
+ssydasheng,Shengyang Sun,UNIVERSITY OF TORONTO,Toronto,ssydasheng@gmail.com,,"Bayesian, Deep Learning",8,129,7,2014-08-03T09:02:11Z
+Snivyn,Niveen Jegatheeswaran,,"Toronto, Canada",,True,,12,129,70,2014-10-19T19:00:11Z
+rajansagarwal,Rajan Agarwal,KINO AI,Toronto,,True,making information and people infinitely more connected.,144,129,159,2020-04-27T15:52:42Z
+BrityHemming,Brit Hemming,,"Toronto, ON. Canada",hello@brittanyhemming.com,True,,95,128,7,2015-01-18T23:14:19Z
+aleccool213,Alec Brunelle,,"Toronto, Canada",alec@alec.coffee,,"JavaScript
+
+Developer at Stripe",70,128,214,2014-01-22T21:57:39Z
+ikokkari,Ilkka Kokkarinen,,"Toronto, Ontario",ilkka.kokkarinen@gmail.com,True,"Instructor of computer science for Chang School of Continuing Education, Toronto Metropolitan University, Toronto.",20,128,0,2016-12-20T13:52:16Z
+Krutonium,Krutonium,THAT ONE. YOU KNOW THE ONE.,Toronto,,True,,211,128,12,2013-03-22T22:53:44Z
+akhomochkina,Anastasia Khomochkina,SENECA COLLEGE,"Toronto, Canada",,True,Bachelor of Software Development,14,128,0,2018-11-21T13:48:06Z
+ShayanDeSh,Shayan Shafaghi,,Toronto,,,Vimming into the Rusts,25,128,142,2018-02-15T06:06:06Z
+takiszourntos,Takis Zourntos,"EMAD STUDIO, INC.",Toronto,,,True victory is victory over one's code...,17,127,16,2019-02-21T21:39:55Z
+chmodxx,Kristina,LOOKOUT,Toronto,,,Sr. Staff Threat Intel Researcher @ Lookout ☾ MSc. CS student ☾ 学生的汉语 ☾ RE & malware ☾ code x coffee x cats,6,127,4,2018-02-24T00:18:30Z
+ababaian,Artem Babaian,COMPUTATIONAL BIOLOGIST,"Toronto, Canada",a.babaian@utoronto.ca,True,Daring biologist hanging out in Toronto,46,127,6,2014-10-14T20:38:14Z
+1997alireza,Alireza Torabian,,Toronto,torabian.alireza@gmail.com,True,Believe in yourself and go for it,35,126,102,2016-01-25T14:55:43Z
+kieranrcampbell,Kieran R Campbell,LTRI & UNIVERSITY OF TORONTO,"Toronto, Canada",[gmail]: kieranrcampbell,True,"Researcher, statistical machine learning for genomics",56,126,9,2012-07-25T09:40:54Z
+shinyorg,Shiny.NET,,"Toronto, Ontario",shinylibdotnet@gmail.com,,"We make shiny nuget packages for Xamarin, Windows, & All Things .NET",14,126,0,2019-03-23T15:51:51Z
+jasongoodwin,Jason Goodwin,,Toronto,,,,69,126,30,2012-11-20T15:07:47Z
+hhaidar,Houssam Haidar,SDELEMENTS,Toronto,,,"Principal Developer @SecurityCompass / @SDElements. These days I work primarily with Javascript, React, Electron and Nodejs.",71,125,136,2011-09-20T20:38:18Z
+tracymakes,Tracy Osborn,HELLOWEBBOOKS,"Toronto, ON and California",,,Author of Hello Web Books and maker of random internet projects. Pricipal/Program Director at TinySeed.,15,125,6,2009-12-16T19:53:54Z
+iBicha,Brahim Hadriche,UNITY TECHNOLOGIES,Toronto,brahim.hadriche@gmail.com,,,43,125,21,2016-03-08T11:28:13Z
+priom,Priom Chowdhury,CHAINSAFE,"Toronto, Canada",priom.galaxy@gmail.com,,Co-Founder at @ChainSafe ,105,125,112,2014-02-14T07:51:11Z
+DillonN,Dillon Newell,,"Toronto, Canada",dillon@newell-labs.ca,,,8,125,0,2013-08-28T09:08:02Z
+iancanada,Ian,,Toronto,iancanada.mail@gmail.com,,,8,125,0,2015-08-22T15:50:40Z
+JohnOnSoftware,Zhong Wu,AUTODESK,"Toronto, Canada",,,Developer Advocate in Autodesk,49,125,12,2011-08-30T12:58:03Z
+supermacro,Gio,,"Toronto, Canada",,,It'sa meeee,62,125,28,2015-01-20T21:49:08Z
+Bortseb,Robert Best,METAMAPS @RAPID-SENSEMAKING-FRAMEWORK,"Toronto, Ontario, Canada",,True,Curious Cartographer Slow-Thinker R&D @metamaps ♓#FutureOfWork #CollectiveIntelligence #P2P #SocEnt #4TheCommons #SpaceshipEarth ❤️,36,124,1120,2012-04-06T00:00:59Z
+wxs,Xavier Snelgrove,PROBABLYSTUDIO,Toronto,,,,32,124,3,2010-07-08T15:55:11Z
+stephaniegiang,Stephanie Giang,,"Toronto, Canada",,,Building cool things at GitHub ✨,12,124,23,2016-10-12T03:49:58Z
+shonfeder,Shon Feder,TARIDES,Toronto,,,Allophilia x Synechism,121,124,202,2016-06-08T13:42:35Z
+yysun,Yiyi Sun,,"Toronto, Canada",yiyisun@gmail.com,,,71,124,0,2009-12-21T15:10:09Z
+nickyiliwang,Nick Wang,AWS,"Toronto, Ontario",,True,working on super secret project,164,124,274,2015-01-10T16:31:50Z
+melaniesigrid,Melanie Sigrid Arellano Baratto,WEALTHSCOPE,"Toronto, ON",melaniesigrid@protonmail.com,True,"Front-End Developer. Current favourite technologies:  React, Redux, JavaScript, Node.js, Ruby, Rails, Bootstrap, SASS, WebPack. ",46,124,98,2019-07-18T07:26:07Z
+chyyran,Ronny Chan,,"Toronto, Ontario",ronny@ronnychan.ca,True,"i make things.
+
+if I don't respond to an issue, DM me on bluesky.",149,123,31,2011-08-24T02:13:15Z
+zoffixznet,Zoffix Znet,,"Toronto, Ontario, Canada",,True,😂,979,123,106,2013-10-22T14:38:49Z
+dipikabh,Dipika Bhattacharya,MOZILLA,"Toronto, Canada",,,Technical writer at MDN,19,123,37,2016-10-23T22:41:05Z
+jrmuizel,Jeff Muizelaar,,"Toronto, Canada",,,,336,123,21,2010-07-15T04:53:10Z
+farnoodma,Farnood Massoudi,TRIBEPLATFORM,Toronto,fa.massoudi@gmail.com,,All I do is recreate,2,122,4,2015-07-06T19:20:40Z
+Hardanish-Singh,Hardanish Singh,META,"Toronto, Ontario",,,Senior Software Developer,9,122,4,2020-02-13T19:56:54Z
+eltonvs,Elton Viana,,"Toronto, Canada",,True,"Full-Stack and Mobile Developer.
+I create, break, and fix things.
+Python, Javascript, Typescript, Kotlin, Go, Haskell",58,122,72,2014-08-07T15:02:43Z
+rilian,rilian,PROXET (FORMER RAILS REACTOR),Kyiv -> Toronto,,,Delivering great projects in time,116,122,106,2009-11-19T18:21:51Z
+brvoigt,Ben Voigt,DERIVATIVE,Toronto,,,,3,122,98,2014-07-09T06:52:08Z
+NS007-dev,Noorin,OWNER OF @APP-CHOREOGRAPHY ORGANISATION,"Toronto, Canada",,,"Founder and owner of @App-Choreography. 
+Currently working on TypeScript and Python.",55,122,23,2020-09-05T13:18:57Z
+mstange,Markus Stange,,"Toronto, Canada",mstange.moz@gmail.com,,,118,121,0,2011-08-05T13:48:21Z
+adamfuhrer,Adam Fuhrer,,Toronto,adamfuhrer@hey.com,,Frontend Engineer,10,121,153,2015-01-30T22:54:09Z
+binyoon99,Duck Lord,,"Toronto, Canada",bintondev@gmail.com,,Hello ! Mountain Cat,17,121,4,2018-11-27T02:11:41Z
+invisibleBully,Jude,,"Etobicoke, Toronto",,,"iOS/Ruby
+
+
+The Marathon Continues 🏁",64,121,187,2015-06-12T12:59:31Z
+thanethomson,Thane Thomson,INFORMALSYSTEMS,"Toronto, Canada",,,I try to make useful things for people.,74,120,9,2010-03-01T08:48:40Z
+davifrossard,Davi Frossard,WAABI-AI,Toronto - ON,,,,8,120,4,2013-03-18T18:36:19Z
+blackHatMonkey,Brian Smith,,"Toronto, Ontario, Canada",,True,,11,119,0,2017-01-14T01:05:23Z
+nwjsmith,Nate Smith,WEALTHSIMPLE,"Toronto, ON",nate@theinternate.com,,,27,119,648,2008-02-28T00:38:55Z
+junzhengca,Jun,GOOGLE,Toronto,,True,SWE at Google. I like coffee ☕️.,30,119,106,2014-06-11T03:02:12Z
+rafkhan,Rafael Khan,SSENSE,"Toronto, Ontario",rafael@rafkhan.me,True,Okay Synthesizer // Coding for the exclusive purposes of cash and dance music,104,119,118,2010-12-18T18:28:18Z
+AVAV2500,Ava,,Toronto,,,"🇺🇦Crypto-enthusiast 
+User Defi 👀 
+ava2500.eth 💎
+",31,119,160,2021-06-26T10:20:28Z
+rfratto,Robert Fratto,GRAFANA,Toronto,robertfratto@gmail.com,,"dev @grafana working on loki, previously alloy ",88,119,10,2011-02-21T16:12:34Z
+shwina,Ashwin Srinath,VOLTRON DATA,Toronto,,,,193,118,12,2013-01-05T03:32:24Z
+elliottsj,Spencer Elliott,COHERE-AI,"Toronto, ON",spencer@elliott.dev,,,209,118,83,2012-08-19T04:38:53Z
+NimaGhaedsharafi,Nima Ghaedsharafi,SNAPP-CAB,"Toronto, Canada",ghaedsharafi.nima@gmail.com,True,a software engineer who loves to engineer software,56,117,60,2013-01-07T07:33:26Z
+sumitarora,Sumit Arora,RANGLEIO,"Toronto, Canada",,,"Software Engineer, Code Phanatic, #Punjabi Music Lover, Always Learning @angular-redux @rangle #Angular-CLI #Augury #BeHappyKeepSmiling 😄 🕺 🎉 ",101,117,5,2010-02-06T06:43:43Z
+seanpaultaylor,Sean Taylor,NVIDIA,"Toronto, Canada",,,"Senior Software Developer - NVIDIA AI Character, Physics and RayTracing.",5,117,0,2011-10-13T23:29:02Z
+probil,Max Liashuk,SOFTWARE ENGINEER AT @FEROOT,"Toronto, ON, Canada",,True,JavaScript enthusiast,82,117,31,2014-02-24T16:16:58Z
+bani,Vanessa Sabino,,"Toronto, ON",,,,28,117,14,2008-11-08T18:30:27Z
+liaojason2,Huan-Chieh (Jason) Liao,,"Toronto, Canada",liao.jason2@gmail.com,,Web application developer from Taiwan.,42,117,166,2018-12-30T14:34:56Z
+moein-shafi,Moein Shafi,YORK UNIVERSITY,"Toronto, Canada",moeinsh@yorku.ca,,"It's all about ""feedback"".",25,116,150,2020-02-08T18:27:35Z
+kyoshino,Kohei Yoshino,,"Toronto, Canada",kohei@britegrid.io,True,Senior UX engineer. Svelte developer. Designer. Marketer. Generalist. Freelancer. Formerly with @mozilla. Creator & maintainer of @sveltia CMS.,13,116,25,2012-11-30T09:22:33Z
+scottclowe,Scott Lowe,VECTORINSTITUTE,"Toronto, Canada",scott.code.lowe@gmail.com,True,,47,116,20,2012-11-26T12:12:40Z
+jinsley8,Jon Insley,INSTINCTDIGITALMEDIA,"Toronto, ON / Remote",,,"Fullstack developer focused on Typescript, React, and Node.js.",32,116,965,2013-10-12T04:21:38Z
+caseware,Caseware,,Toronto,,,We’re in business to help our customers work more effectively and gain deeper insights that lead to change for the better.,13,115,0,2016-08-11T14:11:18Z
+EmilyGraceSeville7cf,Unbelievable Mystery,,"Canada, Toronto",EmilyGraceSeville7cfg@gmail.com,True,"It's a new stage, it's a new day, a new sunset which goes away💘",102,115,497,2018-08-29T15:50:24Z
+amangalvedhekar,Anirudh Mangalvedhekar,CANOPY SECURITY,Toronto,amangalvedhekar@icloud.com,,"Front end Engineer with avid interest in Expo, React Native",27,115,539,2015-11-05T02:05:47Z
+Prtfw,Madeleine Shang,,"Cambridge, MA | Toronto, ONT",shang.madeleine@gmail.com,True,"RecSys Team Lead @OpenMined Research | Leading Data Science and ML @WomenWhoCode
+==========>
+AI / Blockchain Research | Founder | Adventurer | Futurist",92,115,11,2015-07-06T03:33:14Z
+haroldtreen,Harold Treen,FACEBOOK,New York | Toronto | Vancouver | Seattle,haroldtreen@gmail.com,,"Never graduated from the @recursecenter.
+Creator of EpubPress.
+Software Engineer at @facebook. 
+",38,114,79,2012-05-16T14:04:05Z
+liamks,Liam Kaufman,,Toronto,liam.kaufman@gmail.com,,,50,114,2,2008-05-18T20:42:37Z
+Jerry1211,Jerry Lexington,,"Toronto, Canada",,,,0,114,0,2018-02-18T16:19:08Z
+ianmackenzie,Ian Mackenzie,,Toronto,ian.e.mackenzie@gmail.com,,"Author of elm-units, elm-geometry and elm-3d-scene",54,114,2,2012-03-26T13:21:53Z
+ppaquette,Philip Paquette,,"Toronto, Canada",pcpaquette@gmail.com,True,,7,114,33,2010-09-26T16:48:41Z
+rymcol,Ryan Collins,SUPERRARE,"Toronto, Ontario",,True,2745 210F 8BCA 3234 8ABB  C852 1107 08F9 8B65 5205,92,114,124,2012-12-03T18:53:18Z
+quepol,Hillary Hartley,GOVERNMENT OF ONTARIO (@ONGOV),"Toronto, ON",hillary.hartley@ontario.ca,,,6,113,38,2012-06-12T05:34:43Z
+nlalonde,Neil Lalonde,,Toronto,neillalonde@gmail.com,,,8,113,10,2009-11-11T18:03:38Z
+jstaf,Jeff Stafford,,"Toronto, ON",jeff.stafford@protonmail.com,True,,58,113,7,2014-05-13T18:59:58Z
+NickStrupat,Nick Strupat,,Toronto,nick.strupat@gmail.com,True,,138,113,164,2011-05-11T21:38:19Z
+kiosion,Maxim Dietz,GRAVITATIONAL,"Toronto, ON",hi@kio.dev,,"Software developer, OSS enthusiast, cybersec, Linux, and BSD nerd. I like building stuff for the web.",49,113,61,2017-11-27T19:14:51Z
+Shawn-Ogbomo,Shawn Ogbomo,,Toronto Ontario,,,"Hello! My name is Shawn. I'm fascinated with programming; hopefully, such a discipline will yield success. ",4,113,111,2018-10-30T06:38:18Z
+nickpresta,Nick Presta,SHOPIFY,"Toronto, Canada",,,,110,112,51,2009-01-25T03:31:23Z
+ChigboIO,Emmanuel Chigbo,GITHUB,"Toronto, Canada",chigboemmanuel@gmail.com,True,,31,112,9,2015-11-09T10:19:43Z
+radioblahaj,Arav Narula,,Toronto ON / Burlington VT,,True,learning how to make cool things with code! community engineering @hackclub,248,111,230,2016-08-12T22:35:49Z
+dgomesbr,Diego Magalhães,AWS,"Toronto, Canada",dgomesbr@gmail.com,True,Chief Technologist @ AWS,70,111,190,2010-10-10T02:19:58Z
+douglasmakey,Douglas Makey Mendez Molero,,Toronto,douglasmakey@gmail.com,,"Lifelong Learning.
+The only way to go fast, is to go well.
+I'm a kung fu developer 👨🏻‍💻.
+
+Golang and Cloud Native enthusiast.",101,111,63,2014-08-09T06:05:55Z
+eadamceylan,Adam Ceylan,,Toronto,,,QA Automation Engineer | Recruitment | Resume Help | Career Coach | Java | Selenium | Cucumber | Git/GitHub,22,111,4,2022-03-25T00:32:52Z
+thejmazz,Julian Mazzitelli,BIOBOX ANALYTICS INC.,Toronto,mazzitelli.julian@gmail.com,,bionformatics and devops and graphics,90,111,85,2011-12-18T14:34:42Z
+michaelchi08,Michael,MCKC,Toronto,,,"Robotics and ML Developer. Interests: Robotics, Autonomy, RL",249,111,1052,2013-02-06T05:14:14Z
+jameskeane,James Keane,,Toronto,james.keane.github@gmail.com,True,,53,111,5,2010-01-21T04:43:19Z
+svanoort,Sam Van Oort,,"Toronto, ON, Canada",,,,62,111,6,2013-09-06T15:56:23Z
+hannes-brt,Hannes Bretschneider,UNIVERSITY OF TORONTO,"Toronto, Ontario",h@nnes.io,,Postdoctoral Fellow in the Blencowe Lab at University of Toronto,19,111,6,2010-07-05T10:19:15Z
+FabioBatSilva,Fabio Silva,,"Toronto, Canada",,True,,87,110,26,2011-01-28T10:58:53Z
+KooroshRH,Koorosh,,"Toronto, Canada",korosh.roohi9731@gmail.com,,Ph.D. Student of Biomedical Engineering at University of Toronto,35,110,48,2019-01-07T04:56:25Z
+LeNPaul,Paul Le,,"Toronto, Canada",hello@paulle.ca,True,,49,110,36,2014-08-10T16:19:37Z
+hrzafer,Harun Reşit Zafer,,Toronto,harunzafer@gmail.com,,"Software Engineer, Applied NLP & ML Engineer",3,110,4,2013-04-03T12:51:20Z
+sepehrasgarian,Sepehr Asgarian,,"Toronto, ON",,,Data Science Klick,49,110,176,2018-04-18T08:47:51Z
+aehlke,Alex Ehlke,,Toronto,alex.ehlke@gmail.com,,,59,110,76,2009-04-08T02:20:43Z
+bgilham,Brian Gilham,KABLAMO,"Toronto, Ontario, Canada",me@briangilham.com,,Technical Director at Kablamo,0,109,11,2008-11-26T15:38:02Z
+matt-sd-watson,Matthew Watson,,"Toronto, ON, Canada",mwatson@lunenfeld.ca,,Software developer at LTRI with a background in biomedical sciences. ,51,109,119,2018-06-13T16:05:07Z
+adamgoucher,adam goucher,ELEMENT 34,Toronto,adam@goucher.ca,,,48,109,0,2009-06-11T16:32:22Z
+sauricat,Bᴇɪʏᴀɴ Shu,ONE-AMONG-US,"Toronto, ON",saurica@kazv.moe,,Director of @one-among-us.,15,109,66,2013-02-11T15:53:55Z
+daniil,Daniil Molodkov,BRAINSTATION,"Toronto, ON",yanko86@gmail.com,,,34,109,0,2010-09-25T03:58:23Z
+ryanwilsonperkin,Ryan Wilson-Perkin,SHOPIFY,Toronto,ryanwilsonperkin@gmail.com,True,Performance & Tooling @Shopify,141,109,6,2012-12-10T01:58:33Z
+prodseanb,Sean Bachiller,,Toronto,,True,"Hi! My name is Sean, I'm an IT professional based in Toronto, Canada.",20,108,84,2020-01-10T03:10:49Z
+stevenvachon,Steven Vachon,,"Toronto, Canada",contact@svachon.com,,"Software engineer specializing in front-end. I enjoy creating interfaces: GUI, CLI, API. Not a scientist or doctor. 🌈💀🔥",81,108,12,2009-12-20T17:42:56Z
+MisterJimson,Jason Rai,,Toronto,me@jasonrai.ca,,Code,124,108,40,2014-04-20T05:57:27Z
+cltrudeau,Christopher Trudeau,,"Toronto, Canada",,,"Fractional CTO, consultant, and author of Django In Action (http://mng.bz/gBqE)",45,108,0,2012-03-01T20:09:06Z
+goatandsheep,Kemal Ahmed,NEWLINEDOTCO,"Toronto, ON",,True,"Web + Platform Engineering consultant (book me below). Primarily AWS + React
+",71,108,249,2013-09-29T17:11:48Z
+uptoamir,Amirhossein Khoshbin,BLACK PHOENIX,"Toronto, Canada",khoshbinamirhosein@gmail.com,,Computer Engineering Graduate,24,108,130,2020-01-06T13:07:27Z
+WilliamPourmajidi,William Pourmajidi,WIL SOLUTIONS INC.,"Toronto, Ontario, Canada",william.pourmajidi@gmail.com,,"{
+	""Expertise"": [""Cloud Architecture"", ""Enterprise Software Architecture"", ""Cloud Monitoring/Observability"", ""Cloud Computing"", ""Cloud Storage"", ""Blockchain""]}",21,107,0,2016-04-23T15:03:13Z
+NodeBB,NodeBB,,"Toronto, ON",sales@nodebb.org,,,95,107,0,2013-05-16T16:51:30Z
+spacejack,,,"Toronto, Canada",,,,78,107,2,2015-03-22T02:33:51Z
+gvarandas,Guilherme Varandas,SHOPIFY,"Toronto, ON",jgvarandas@gmail.com,True,"A curious, confused and chaotic mind.
+Always building stuff, from LEGO to Software.",49,107,32,2013-09-20T22:43:11Z
+lunaroyster,Arnav Bansal,REPLIT,Toronto/Bangalore,,True,"(I've been told to set up a professional profile picture, but I'm used to George Carlin looking upon my commits)",87,107,112,2013-12-15T09:33:12Z
+HuakunShen,Huakun Shen,UNIVERSITY OF TORONTO,Toronto,huakun.shen@huakunshen.com,,Computer Science Master Student at University of Toronto,157,107,41,2017-11-16T15:59:44Z
+vikramkakkar,Vikram,,"Toronto, ON",,,,11,107,11,2013-04-23T22:16:00Z
+destruc7i0n,,,"Toronto, Canada",,,,35,107,3,2013-12-13T23:11:14Z
+ranacseruet,Rana Md Ali Ahsan,,"Toronto, Canada",,True,,20,107,30,2010-08-18T08:54:18Z
+scoremedia,theScore,,"Toronto, ON, Canada",,,,55,107,0,2011-09-29T15:41:21Z
+yusuf8ahmed,Yusuf Ahmed,,"Toronto, Canada",,True,Solving the world's problems one line of code at a time 🌍,39,106,71,2017-11-06T02:49:39Z
+yzgyyang,Guangyuan Yang,AUTODESK,"Toronto, ON",charlie.yang@autodesk.com,True,"Software Engineer @autodesk. @freebsd Committer. Also known as Charlie.
+",107,106,94,2016-01-17T21:32:47Z
+SC4RECOIN,Kurtis Streutker,,"Toronto, ON",kurtisstreutker@gmail.com,,bitcorn,19,106,15,2017-04-16T03:16:24Z
+gngdb,Gavia Gray,CEREBRAS SYSTEMS,Toronto,,,,61,106,97,2011-10-07T13:59:21Z
+samgermain,Sam Germain,CCXT,Toronto,sam.germain@usask.ca,,"View my portfolio on samgermain.netlify.app
+
+- B.Sc. in Computer Science
+- B.ScHn in Bioinformatics
+",41,106,0,2017-06-05T20:29:43Z
+itaymishan,Itay Mishan,,"Toronto, Canada",,True,,34,106,34,2014-08-03T20:11:06Z
+adrian-miasik,Adrian Miasik,,"Toronto (GTA), Canada + Available for Remote",github@adrian-miasik.com,True,Software & Game Developer,12,106,76,2015-06-05T04:35:20Z
+jmcardon,Jose C,KADENA-IO,"Toronto, Canada",,,Haskell and Cryptography enthusiast,109,106,29,2015-10-24T03:34:59Z
+awgeezrick,Mark Jones,TORONTO POLICE SERVICE,"Toronto, Ontario, Canada",,,Crime Analyst for the Toronto Police Service.,395,106,604,2018-07-03T14:45:04Z
+gregr,Greg Rosenblatt,,"Toronto, Ontario",greg.weiqi@gmail.com,,"people machines, not machine people",29,105,42,2010-01-29T21:49:04Z
+HaydenMeloche,Hayden,PINECORPCA,"Toronto, ON Canada",meloche.hayden@gmail.com,True,,51,105,36,2015-10-13T12:55:31Z
+clarabatt,Clara Battesini,,"Toronto, CA",clarabattesini@gmail.com,True,,27,105,76,2014-02-13T12:59:43Z
+yasith,Yasith Vidanaarachchi,GOOGLE,"Toronto, Canada",yasith@tuxv.net,True,,41,105,27,2010-09-27T09:34:29Z
+robocoder,Anthon Pang,,"Toronto, Canada",,,,128,105,3,2011-07-18T04:53:58Z
+amingilani,Amin Shah Gilani,WAVEACCOUNTING,"Toronto, Ontario",amin@gilani.me,,Crafting code at @waveaccounting,198,105,101,2011-11-11T13:42:56Z
+igilitschenski,Igor Gilitschenski,UOFT-ISL,"Toronto, Canada",,,,5,105,6,2015-04-09T16:21:20Z
+AfzalivE,Afzal Najam,DOIST INC,"Toronto, ON",,,"Android Developer @Doist. Basketball fan, woodworker. Dabble in all other technologies.",166,105,53,2010-10-12T00:55:28Z
+zhangsu,Su Zhang (張甦),UNIVERSITY OF WATERLOO,/Waterloo|Toronto|SF Bay Area/,meａｔzhang.su,,,29,104,30,2011-04-21T04:52:11Z
+mabuyo,Michelle Mabuyo,APOLLO GRAPHQL,"Toronto, ON",,,Developer Educator @apollographql,25,104,7,2014-03-09T19:12:09Z
+mwarkentin,Michael Warkentin,GETSENTRY,"Toronto, Ontario",mwarkentin@hey.com,,"Senior SRE @getsentry
+Previously OpsEng @waveaccounting",158,104,37,2009-03-26T19:48:49Z
+rohithpudari,Rohith Pudari,,Toronto,,True,PhD Student at University of Toronto,11,104,4,2017-04-18T12:28:10Z
+UddamB,Uddam Bhathal,,"Toronto, Ontario, Canada",,True,3rd Year Student @ Schulich School of Business,23,104,102,2021-08-26T17:36:20Z
+mmonfared,Mohammad Monfared,DATAART,Toronto - Canada,,,Lead QA Automation @DataArt,79,104,60,2020-11-17T07:21:07Z
+osis,Dwayne Forde,EX-VMWARE < PIVOTAL < XTREME LABS,"Toronto, Ontario",,,,43,103,68,2010-07-28T15:33:57Z
+yangze0930,Ze Yang,UNIVERSITY OF TORONTO,Toronto,zeyang@cs.toronto.edu,,Ph.D. student in Computer Science at the University of Toronto.,10,103,13,2016-02-02T05:44:26Z
+aarongough,Aaron Gough (He/Him),"TESTDOUBLE, GOUGH CUSTOM, @OPEN-MANUFACTURING-INITIATIVE",Toronto,aaron@aarongough.com,True,"I'm a software developer specializing in web based applications with a strong focus on creating beautiful, reliable, well tested and well designed software.",30,103,11,2009-12-21T02:08:15Z
+npjd,,,Toronto,,,making my own games,83,103,75,2019-02-01T18:33:26Z
+itsbilal,Bilal Akhtar,COCKROACH LABS,Toronto,me@itsbilal.com,True,,35,103,53,2010-07-27T05:07:04Z
+sharon-yi,Sharon,,"Toronto, ON",,,,6,103,44,2019-10-19T17:57:33Z
+dcooney,Darren Cooney,CONNEKT MEDIA,"Toronto, Canada",darren.cooney@gmail.com,True,"#1 Dad with the key chain to prove it. Software Development @AEWP & @connekthq. 
+
+Working on Instant Images and Ajax Load More for WordPress.",35,103,15,2010-10-05T20:32:08Z
+PabloVallejo,Pablo Vallejo,CLIO,Toronto,hello@vallejopablo.com,True,"Engineering Manager at @clio  -- Passionate about leadership, product, mentorship, culture and engineering orgs",80,103,121,2012-05-18T03:01:36Z
+gmoledina,Gulam Moledina,SHOPIFY,"Toronto, Canada",,True,Staff Mobile Developer,2,103,8,2011-08-14T06:22:42Z
+mc256,Jun Lin (Michael) Chen,,"Toronto, ON, CANADA",webmaster@mc256.dev,True,"Go, Python, K8s, k3s, IoT, Raspberry Pi, WebRTC, BLE solutions, Cyber Security",108,102,119,2012-07-02T11:01:53Z
+mlxd,Lee James O'Riordan,XANADUAI,"Toronto, Canada",,True,"Physicist, purveyor of angular momentum, GPUs, pointy guitars, and computational things. Working on quantum stuff.",46,102,34,2011-06-18T16:41:36Z
+aravind-3105,Aravind Narayanan,UNIVERSITY OF TORONTO,"Toronto, Canada",aravind.narayanan@mail.utoronto.ca,True,"Graduate ECE Student at University of Toronto, Undergrad @ IIIT-H || Researcher @ Robotics Research Center@IIITH, Precog@IIITD,  McMaster University",44,101,185,2019-08-22T05:20:49Z
+basil2style,Basil Alias,,"Toronto, Canada",basiltalias92@gmail.com,True,Developer,123,101,97,2011-12-26T00:17:22Z
+dellisd,Derek Ellis,CASHAPP,Toronto,derekellis170@gmail.com,,Android @ Cash App,77,101,24,2014-02-21T02:10:18Z
+finiterank,Javier Moreno,INTERAXON INC.,Toronto,,True,,35,101,35,2012-09-29T15:58:24Z
+acode,Autocode Open Source,,"San Francisco, CA and Toronto, ON",,,Open Source Contributions for Autocode (defunct),9,101,0,2021-03-11T07:34:55Z
+gorkem-cetin,Görkem Çetin,COUNTLY,"Toronto, Canada",,,"Director at Countly, #1 open source mobile analytics, web analytics and desktop analytics platform ",44,101,8,2012-05-20T16:20:29Z
+rwhogg,"Bob ""Wombat"" Hogg",GOOGLE,"Toronto, Canada",rwhogg@google.com,,"Dev-of-all-trades, University of Waterloo graduate, and a wombat. Proudly working on Cloud Firestore @google. A former maintainer of Homebrew on Linux",43,101,473,2012-09-18T21:29:26Z
+andrewdamelio,Andrew D'Amelio,,"Toronto, Canada",,,npx andrewdamelio,31,101,66,2012-04-27T01:39:33Z
+qasim,Qasim Iqbal,,"Toronto, Canada",me@qas.im,,"Software, experiments, and having fun.",62,101,35,2013-01-12T18:40:53Z

@@ -36,3 +36,4 @@ This project uses GitHub's API to analyze Toronto-based users with significant f
 - **`users.csv`**: Contains GitHub users' profile details, including login, name, company, email, bio, number of repositories, followers, and more.
 - **`repositories.csv`**: Details each user’s repositories, including repository name, creation date, star count, primary language, and license type.
 
+---
